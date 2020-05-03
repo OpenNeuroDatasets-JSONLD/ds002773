@@ -1,0 +1,151 @@
+onset	duration	trial_type	response_time	task_type	response_type	trial_id	run_id	block_id	word_id	img_id	design_onset	grate_orientation
+2.025	2.000	face	2.127	localizer	strong unrelated	1	1	1	1	1	2.0	n/a
+6.024	2.000	face	2.736	localizer	strong related	2	1	1	2	2	6.0	n/a
+10.024	2.000	face	3.280	localizer	strong unrelated	3	1	1	3	3	10.0	n/a
+14.007	2.000	face	n/a	localizer	no response	4	1	1	4	4	14.0	n/a
+18.023	2.000	face	1.960	localizer	strong related	5	1	1	5	5	18.0	n/a
+22.022	2.000	face	2.776	localizer	strong unrelated	6	1	1	6	6	22.0	n/a
+26.061	1.158	correct	1.158	grate	n/a	6	1	n/a	n/a	n/a	n/a	right
+27.741	0.622	correct	0.622	grate	n/a	6	1	n/a	n/a	n/a	n/a	left
+28.873	0.522	correct	0.522	grate	n/a	6	1	n/a	n/a	n/a	n/a	right
+29.923	0.752	correct	0.752	grate	n/a	6	1	n/a	n/a	n/a	n/a	right
+31.189	0.646	correct	0.646	grate	n/a	6	1	n/a	n/a	n/a	n/a	left
+32.356	0.599	correct	0.599	grate	n/a	6	1	n/a	n/a	n/a	n/a	left
+33.472	0.938	correct	0.938	grate	n/a	6	1	n/a	n/a	n/a	n/a	left
+34.922	0.656	correct	0.656	grate	n/a	6	1	n/a	n/a	n/a	n/a	right
+36.089	0.467	incorrect	0.467	grate	n/a	6	1	n/a	n/a	n/a	n/a	right
+38.021	2.000	scene	2.377	localizer	strong unrelated	7	1	2	145	201	38.0	n/a
+42.020	2.000	scene	2.746	localizer	strong related	8	1	2	146	202	42.0	n/a
+46.020	2.000	scene	2.778	localizer	weak unrelated	9	1	2	147	203	46.0	n/a
+50.020	2.000	scene	2.139	localizer	strong related	10	1	2	148	204	50.0	n/a
+54.019	2.000	scene	2.546	localizer	strong related	11	1	2	149	205	54.0	n/a
+58.019	2.000	scene	2.114	localizer	strong related	12	1	2	150	206	58.0	n/a
+62.058	1.120	correct	1.120	grate	n/a	12	1	n/a	n/a	n/a	n/a	left
+63.687	0.706	correct	0.706	grate	n/a	12	1	n/a	n/a	n/a	n/a	left
+64.902	0.804	correct	0.804	grate	n/a	12	1	n/a	n/a	n/a	n/a	right
+66.219	0.574	correct	0.574	grate	n/a	12	1	n/a	n/a	n/a	n/a	right
+67.302	0.523	correct	0.523	grate	n/a	12	1	n/a	n/a	n/a	n/a	right
+68.335	0.578	correct	0.578	grate	n/a	12	1	n/a	n/a	n/a	n/a	left
+69.435	0.581	correct	0.581	grate	n/a	12	1	n/a	n/a	n/a	n/a	left
+70.535	0.586	correct	0.586	grate	n/a	12	1	n/a	n/a	n/a	n/a	left
+71.635	0.622	correct	0.622	grate	n/a	12	1	n/a	n/a	n/a	n/a	left
+72.768	0.100	incorrect	0.100	grate	n/a	12	1	n/a	n/a	n/a	n/a	right
+74.017	2.000	object	2.083	localizer	weak unrelated	13	1	3	73	101	74.0	n/a
+78.017	2.000	object	n/a	localizer	no response	14	1	3	74	102	78.0	n/a
+82.016	2.000	object	2.044	localizer	strong unrelated	15	1	3	75	103	82.0	n/a
+86.016	2.000	object	2.324	localizer	strong unrelated	16	1	3	76	104	86.0	n/a
+90.015	2.000	object	2.588	localizer	strong related	17	1	3	77	105	90.0	n/a
+94.015	2.000	object	2.469	localizer	weak related	18	1	3	78	106	94.0	n/a
+98.054	1.082	correct	1.082	grate	n/a	18	1	n/a	n/a	n/a	n/a	right
+99.649	0.726	correct	0.726	grate	n/a	18	1	n/a	n/a	n/a	n/a	right
+100.899	0.573	correct	0.573	grate	n/a	18	1	n/a	n/a	n/a	n/a	right
+101.982	0.586	correct	0.586	grate	n/a	18	1	n/a	n/a	n/a	n/a	right
+103.082	0.501	correct	0.501	grate	n/a	18	1	n/a	n/a	n/a	n/a	left
+104.098	0.477	correct	0.477	grate	n/a	18	1	n/a	n/a	n/a	n/a	left
+105.098	0.629	correct	0.629	grate	n/a	18	1	n/a	n/a	n/a	n/a	left
+106.248	0.639	correct	0.639	grate	n/a	18	1	n/a	n/a	n/a	n/a	left
+107.398	0.673	correct	0.673	grate	n/a	18	1	n/a	n/a	n/a	n/a	right
+108.581	0.100	incorrect	0.100	grate	n/a	18	1	n/a	n/a	n/a	n/a	left
+110.013	2.000	scene	2.502	localizer	strong unrelated	19	1	4	151	207	110.0	n/a
+114.013	2.000	scene	2.014	localizer	strong related	20	1	4	152	208	114.0	n/a
+118.013	2.000	scene	1.782	localizer	strong related	21	1	4	153	209	118.0	n/a
+122.012	2.000	scene	2.582	localizer	strong related	22	1	4	154	210	122.0	n/a
+126.012	2.000	scene	3.015	localizer	weak unrelated	23	1	4	155	211	126.0	n/a
+130.011	2.000	scene	2.864	localizer	weak related	24	1	4	156	212	130.0	n/a
+134.050	0.884	correct	0.884	grate	n/a	24	1	n/a	n/a	n/a	n/a	right
+135.446	0.520	correct	0.520	grate	n/a	24	1	n/a	n/a	n/a	n/a	left
+136.478	0.672	correct	0.672	grate	n/a	24	1	n/a	n/a	n/a	n/a	left
+137.662	0.512	correct	0.512	grate	n/a	24	1	n/a	n/a	n/a	n/a	right
+138.695	0.536	correct	0.536	grate	n/a	24	1	n/a	n/a	n/a	n/a	right
+139.745	0.557	correct	0.557	grate	n/a	24	1	n/a	n/a	n/a	n/a	left
+140.811	0.611	correct	0.611	grate	n/a	24	1	n/a	n/a	n/a	n/a	left
+141.945	0.533	correct	0.533	grate	n/a	24	1	n/a	n/a	n/a	n/a	right
+142.994	0.587	correct	0.587	grate	n/a	24	1	n/a	n/a	n/a	n/a	left
+144.094	0.450	incorrect	0.450	grate	n/a	24	1	n/a	n/a	n/a	n/a	right
+146.010	2.000	object	2.752	localizer	strong related	25	1	5	79	107	146.0	n/a
+150.009	2.000	object	3.120	localizer	weak related	26	1	5	80	108	150.0	n/a
+154.009	2.000	object	2.337	localizer	strong unrelated	27	1	5	81	109	154.0	n/a
+158.009	2.000	object	2.129	localizer	strong related	28	1	5	82	110	158.0	n/a
+162.008	2.000	object	2.770	localizer	strong unrelated	29	1	5	83	111	162.0	n/a
+166.008	2.000	object	2.713	localizer	strong related	30	1	5	84	112	166.0	n/a
+170.047	0.894	correct	0.894	grate	n/a	30	1	n/a	n/a	n/a	n/a	right
+171.459	0.442	correct	0.442	grate	n/a	30	1	n/a	n/a	n/a	n/a	left
+172.425	0.452	correct	0.452	grate	n/a	30	1	n/a	n/a	n/a	n/a	right
+173.391	0.421	correct	0.421	grate	n/a	30	1	n/a	n/a	n/a	n/a	right
+174.325	0.409	correct	0.409	grate	n/a	30	1	n/a	n/a	n/a	n/a	right
+175.241	0.435	correct	0.435	grate	n/a	30	1	n/a	n/a	n/a	n/a	right
+176.191	0.502	correct	0.502	grate	n/a	30	1	n/a	n/a	n/a	n/a	right
+177.208	0.437	correct	0.437	grate	n/a	30	1	n/a	n/a	n/a	n/a	right
+178.158	0.527	correct	0.527	grate	n/a	30	1	n/a	n/a	n/a	n/a	left
+179.207	0.461	correct	0.461	grate	n/a	30	1	n/a	n/a	n/a	n/a	left
+180.191	0.350	incorrect	0.350	grate	n/a	30	1	n/a	n/a	n/a	n/a	right
+182.023	2.000	face	2.673	localizer	strong related	31	1	6	7	7	182.0	n/a
+186.022	2.000	face	1.978	localizer	strong related	32	1	6	8	8	186.0	n/a
+190.022	2.000	face	2.746	localizer	strong related	33	1	6	9	9	190.0	n/a
+194.022	2.000	face	2.754	localizer	weak related	34	1	6	10	10	194.0	n/a
+198.021	2.000	face	2.802	localizer	strong unrelated	35	1	6	11	11	198.0	n/a
+202.021	2.000	face	2.802	localizer	strong unrelated	36	1	6	12	12	202.0	n/a
+206.064	0.627	correct	0.627	grate	n/a	36	1	n/a	n/a	n/a	n/a	left
+207.205	0.382	correct	0.382	grate	n/a	36	1	n/a	n/a	n/a	n/a	left
+208.104	0.436	correct	0.436	grate	n/a	36	1	n/a	n/a	n/a	n/a	left
+209.054	0.429	correct	0.429	grate	n/a	36	1	n/a	n/a	n/a	n/a	right
+210.004	0.399	correct	0.399	grate	n/a	36	1	n/a	n/a	n/a	n/a	left
+210.921	0.410	correct	0.410	grate	n/a	36	1	n/a	n/a	n/a	n/a	left
+211.854	0.453	correct	0.453	grate	n/a	36	1	n/a	n/a	n/a	n/a	right
+212.821	0.390	correct	0.390	grate	n/a	36	1	n/a	n/a	n/a	n/a	left
+213.721	0.474	correct	0.474	grate	n/a	36	1	n/a	n/a	n/a	n/a	right
+214.704	0.483	correct	0.483	grate	n/a	36	1	n/a	n/a	n/a	n/a	left
+215.704	0.419	correct	0.419	grate	n/a	36	1	n/a	n/a	n/a	n/a	right
+216.637	0.100	incorrect	0.100	grate	n/a	36	1	n/a	n/a	n/a	n/a	left
+218.019	2.000	object	2.267	localizer	weak unrelated	37	1	7	85	113	218.0	n/a
+222.019	2.000	object	3.396	localizer	weak unrelated	38	1	7	86	114	222.0	n/a
+226.018	2.000	object	2.156	localizer	strong related	39	1	7	87	115	226.0	n/a
+230.018	2.000	object	2.380	localizer	strong unrelated	40	1	7	88	116	230.0	n/a
+234.018	2.000	object	3.100	localizer	weak unrelated	41	1	7	89	117	234.0	n/a
+238.017	2.000	object	2.566	localizer	strong unrelated	42	1	7	90	118	238.0	n/a
+242.056	0.802	correct	0.802	grate	n/a	42	1	n/a	n/a	n/a	n/a	right
+243.368	0.449	correct	0.449	grate	n/a	42	1	n/a	n/a	n/a	n/a	left
+244.334	0.491	correct	0.491	grate	n/a	42	1	n/a	n/a	n/a	n/a	right
+245.334	0.540	correct	0.540	grate	n/a	42	1	n/a	n/a	n/a	n/a	right
+246.384	0.402	correct	0.402	grate	n/a	42	1	n/a	n/a	n/a	n/a	left
+247.300	0.533	correct	0.533	grate	n/a	42	1	n/a	n/a	n/a	n/a	right
+248.350	0.516	correct	0.516	grate	n/a	42	1	n/a	n/a	n/a	n/a	right
+249.384	0.538	correct	0.538	grate	n/a	42	1	n/a	n/a	n/a	n/a	left
+250.433	0.536	correct	0.536	grate	n/a	42	1	n/a	n/a	n/a	n/a	left
+251.483	0.495	correct	0.495	grate	n/a	42	1	n/a	n/a	n/a	n/a	right
+252.500	0.050	incorrect	0.050	grate	n/a	42	1	n/a	n/a	n/a	n/a	left
+254.016	2.000	face	2.039	localizer	strong related	43	1	8	13	13	254.0	n/a
+258.015	2.000	face	2.830	localizer	strong unrelated	44	1	8	14	14	258.0	n/a
+262.015	2.000	face	2.774	localizer	strong unrelated	45	1	8	15	15	262.0	n/a
+266.014	2.000	face	2.822	localizer	strong unrelated	46	1	8	16	16	266.0	n/a
+270.014	2.000	face	2.567	localizer	strong unrelated	47	1	8	17	17	270.0	n/a
+274.014	2.000	face	2.471	localizer	strong related	48	1	8	18	18	274.0	n/a
+278.052	0.732	correct	0.732	grate	n/a	48	1	n/a	n/a	n/a	n/a	right
+279.297	0.415	correct	0.415	grate	n/a	48	1	n/a	n/a	n/a	n/a	right
+280.230	0.459	correct	0.459	grate	n/a	48	1	n/a	n/a	n/a	n/a	left
+281.197	0.371	correct	0.371	grate	n/a	48	1	n/a	n/a	n/a	n/a	left
+282.080	0.344	correct	0.344	grate	n/a	48	1	n/a	n/a	n/a	n/a	right
+282.947	0.509	correct	0.509	grate	n/a	48	1	n/a	n/a	n/a	n/a	right
+283.963	0.509	correct	0.509	grate	n/a	48	1	n/a	n/a	n/a	n/a	right
+284.980	0.412	correct	0.412	grate	n/a	48	1	n/a	n/a	n/a	n/a	right
+285.913	0.423	correct	0.423	grate	n/a	48	1	n/a	n/a	n/a	n/a	left
+286.846	0.481	correct	0.481	grate	n/a	48	1	n/a	n/a	n/a	n/a	right
+287.846	0.474	correct	0.474	grate	n/a	48	1	n/a	n/a	n/a	n/a	right
+288.830	0.100	incorrect	0.100	grate	n/a	48	1	n/a	n/a	n/a	n/a	right
+290.012	2.000	scene	1.898	localizer	strong related	49	1	9	157	213	290.0	n/a
+294.012	2.000	scene	2.528	localizer	strong related	50	1	9	158	214	294.0	n/a
+298.011	2.000	scene	2.809	localizer	weak unrelated	51	1	9	159	215	298.0	n/a
+302.011	2.000	scene	3.248	localizer	weak related	52	1	9	160	216	302.0	n/a
+306.010	2.000	scene	2.369	localizer	strong unrelated	53	1	9	161	217	306.0	n/a
+310.010	2.000	scene	2.817	localizer	strong related	54	1	9	162	218	310.0	n/a
+314.049	0.878	correct	0.878	grate	n/a	54	1	n/a	n/a	n/a	n/a	left
+315.444	0.429	correct	0.429	grate	n/a	54	1	n/a	n/a	n/a	n/a	left
+316.393	0.429	correct	0.429	grate	n/a	54	1	n/a	n/a	n/a	n/a	left
+317.343	0.551	correct	0.551	grate	n/a	54	1	n/a	n/a	n/a	n/a	left
+318.410	0.565	correct	0.565	grate	n/a	54	1	n/a	n/a	n/a	n/a	left
+319.493	0.561	correct	0.561	grate	n/a	54	1	n/a	n/a	n/a	n/a	right
+320.576	0.430	correct	0.430	grate	n/a	54	1	n/a	n/a	n/a	n/a	right
+321.526	0.536	correct	0.536	grate	n/a	54	1	n/a	n/a	n/a	n/a	right
+322.576	0.640	correct	0.640	grate	n/a	54	1	n/a	n/a	n/a	n/a	left
+323.743	0.376	correct	0.376	grate	n/a	54	1	n/a	n/a	n/a	n/a	left
+324.626	0.100	incorrect	0.100	grate	n/a	54	1	n/a	n/a	n/a	n/a	left
