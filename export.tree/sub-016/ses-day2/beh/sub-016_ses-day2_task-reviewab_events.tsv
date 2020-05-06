@@ -1,0 +1,324 @@
+onset	duration	trial_type	response_time	task_type	response_type	update_cond	cate_c	cate_b	cate_o	trial_id	word_id	img_id	stim_c	stim_b	design_onset
+2.012	2.000	incorrect	0.267	review a-b	scene	test	object	face	scene	1	12	12	160	12	2.000
+6.511	2.000	correct	0.498	review a-b	scene	test	face	scene	object	2	98	98	74	202	6.500
+11.010	2.000	incorrect	0.470	review a-b	object	test	object	face	scene	3	4	4	152	4	11.000
+15.509	2.000	incorrect	0.392	review a-b	object	test	object	face	scene	4	20	20	168	20	15.500
+20.008	2.000	correct	0.922	review a-b	face	restudy	object	face	scene	5	23	23	171	23	20.000
+24.506	2.000	incorrect	0.470	review a-b	object	test	scene	face	object	6	28	28	252	28	24.500
+29.022	2.000	incorrect	0.545	review a-b	object	restudy	object	face	scene	7	15	15	163	15	29.000
+33.521	2.000	correct	0.581	review a-b	scene	test	object	scene	face	8	122	122	174	226	33.500
+38.020	2.000	incorrect	0.684	review a-b	face	test	face	scene	object	9	114	114	90	218	38.000
+42.519	2.000	no response	n/a	review a-b	no response	test	face	scene	object	10	106	106	82	210	42.500
+47.018	2.000	incorrect	0.610	review a-b	scene	restudy	scene	object	face	11	73	73	273	125	47.000
+51.516	2.000	incorrect	0.660	review a-b	face	test	object	scene	face	12	142	142	194	246	51.500
+56.015	2.000	correct	0.387	review a-b	scene	test	face	scene	object	13	100	100	76	204	56.000
+60.514	2.000	don't know	0.449	review a-b	don't know	test	object	scene	face	14	134	134	186	238	60.500
+65.013	2.000	correct	0.369	review a-b	scene	restudy	face	scene	object	15	101	101	77	205	65.000
+69.512	2.000	don't know	0.368	review a-b	don't know	restudy	object	face	scene	16	3	3	151	3	69.500
+74.011	2.000	correct	0.378	review a-b	scene	restudy	object	scene	face	17	143	143	195	247	74.000
+78.510	2.000	incorrect	0.922	review a-b	object	test	object	scene	face	18	138	138	190	242	78.500
+83.009	2.000	don't know	0.359	review a-b	don't know	restudy	face	scene	object	19	119	119	95	223	83.000
+87.507	2.000	don't know	0.584	review a-b	don't know	test	object	face	scene	20	16	16	164	16	87.500
+92.006	2.000	don't know	0.502	review a-b	don't know	test	scene	object	face	21	80	80	280	132	92.000
+96.522	2.000	correct	0.769	review a-b	object	test	face	object	scene	22	52	52	52	104	96.500
+101.021	2.000	don't know	0.294	review a-b	don't know	test	scene	object	face	23	84	84	284	136	101.000
+105.520	2.000	don't know	0.403	review a-b	don't know	restudy	object	face	scene	24	13	13	161	13	105.500
+110.019	2.000	correct	0.704	review a-b	scene	restudy	object	scene	face	25	121	121	173	225	110.000
+114.517	2.000	don't know	0.319	review a-b	don't know	restudy	object	scene	face	26	131	131	183	235	114.500
+119.016	2.000	don't know	0.700	review a-b	don't know	restudy	object	face	scene	27	1	1	149	1	119.000
+123.515	2.000	correct	0.305	review a-b	object	restudy	scene	object	face	28	93	93	293	145	123.500
+128.014	2.000	correct	0.605	review a-b	scene	test	face	scene	object	29	118	118	94	222	128.000
+132.513	2.000	don't know	0.327	review a-b	don't know	restudy	scene	face	object	30	39	39	263	39	132.500
+137.012	2.000	don't know	0.447	review a-b	don't know	restudy	object	scene	face	31	139	139	191	243	137.000
+141.511	2.000	incorrect	0.382	review a-b	face	restudy	face	scene	object	32	99	99	75	203	141.500
+146.010	2.000	correct	0.305	review a-b	scene	restudy	face	scene	object	33	105	105	81	209	146.000
+150.508	2.000	don't know	0.261	review a-b	don't know	test	object	scene	face	34	140	140	192	244	150.500
+155.007	2.000	incorrect	0.440	review a-b	scene	restudy	scene	face	object	35	31	31	255	31	155.000
+159.506	2.000	correct	0.323	review a-b	object	restudy	scene	object	face	36	81	81	281	133	159.500
+164.022	2.000	correct	0.328	review a-b	scene	restudy	face	scene	object	37	117	117	93	221	164.000
+168.521	2.000	incorrect	0.374	review a-b	scene	test	object	face	scene	38	24	24	172	24	168.500
+173.019	2.000	incorrect	0.473	review a-b	face	test	scene	object	face	39	78	78	278	130	173.000
+177.518	2.000	don't know	0.357	review a-b	don't know	test	object	scene	face	40	124	124	176	228	177.500
+182.017	2.000	don't know	0.395	review a-b	don't know	test	face	object	scene	41	70	70	70	122	182.000
+186.516	2.000	don't know	0.452	review a-b	don't know	test	scene	face	object	42	34	34	258	34	186.500
+191.015	2.000	incorrect	0.330	review a-b	face	test	face	scene	object	43	108	108	84	212	191.000
+195.514	2.000	don't know	0.333	review a-b	don't know	test	scene	face	object	44	26	26	250	26	195.500
+200.013	2.000	don't know	0.324	review a-b	don't know	restudy	scene	object	face	45	89	89	289	141	200.000
+204.512	2.000	correct	0.502	review a-b	face	test	scene	face	object	46	40	40	264	40	204.500
+209.011	2.000	don't know	0.261	review a-b	don't know	test	face	scene	object	47	112	112	88	216	209.000
+213.509	2.000	don't know	0.417	review a-b	don't know	test	face	object	scene	48	50	50	50	102	213.500
+218.008	2.000	correct	0.319	review a-b	object	test	face	object	scene	49	68	68	68	120	218.000
+222.507	2.000	correct	0.295	review a-b	face	test	scene	face	object	50	32	32	256	32	222.500
+227.023	2.000	don't know	0.537	review a-b	don't know	test	object	scene	face	51	136	136	188	240	227.000
+231.522	2.000	don't know	0.440	review a-b	don't know	test	face	scene	object	52	104	104	80	208	231.500
+236.020	2.000	correct	0.314	review a-b	object	test	scene	object	face	53	82	82	282	134	236.000
+240.519	2.000	correct	0.351	review a-b	object	test	scene	object	face	54	74	74	274	126	240.500
+245.018	2.000	incorrect	0.445	review a-b	face	test	face	object	scene	55	56	56	56	108	245.000
+249.517	2.000	don't know	0.694	review a-b	don't know	restudy	face	object	scene	56	51	51	51	103	249.500
+254.016	2.000	don't know	0.542	review a-b	don't know	restudy	object	scene	face	57	141	141	193	245	254.000
+258.515	2.000	don't know	0.819	review a-b	don't know	restudy	object	scene	face	58	137	137	189	241	258.500
+263.014	2.000	don't know	0.423	review a-b	don't know	restudy	face	object	scene	59	57	57	57	109	263.000
+267.513	2.000	correct	0.670	review a-b	object	test	scene	object	face	60	94	94	294	146	267.500
+272.012	2.000	don't know	0.483	review a-b	don't know	restudy	scene	object	face	61	75	75	275	127	272.000
+276.510	2.000	correct	0.634	review a-b	object	test	face	object	scene	62	62	62	62	114	276.500
+281.009	2.000	correct	0.338	review a-b	scene	restudy	object	scene	face	63	125	125	177	229	281.000
+285.508	2.000	don't know	0.209	review a-b	don't know	restudy	scene	face	object	64	29	29	253	29	285.500
+290.007	2.000	correct	0.260	review a-b	face	restudy	scene	face	object	65	47	47	271	47	290.000
+294.523	2.000	correct	0.456	review a-b	scene	test	object	scene	face	66	130	130	182	234	294.500
+299.022	2.000	incorrect	0.358	review a-b	face	restudy	face	scene	object	67	103	103	79	207	299.000
+303.520	2.000	don't know	0.316	review a-b	don't know	restudy	face	object	scene	68	59	59	59	111	303.500
+308.019	2.000	correct	0.321	review a-b	face	restudy	object	face	scene	69	9	9	157	9	308.000
+312.518	2.000	don't know	0.350	review a-b	don't know	test	scene	object	face	70	76	76	276	128	312.500
+317.017	2.000	correct	0.448	review a-b	object	test	face	object	scene	71	58	58	58	110	317.000
+321.516	2.000	incorrect	0.330	review a-b	face	restudy	scene	object	face	72	79	79	279	131	321.500
+326.015	2.000	correct	0.378	review a-b	scene	test	object	scene	face	73	128	128	180	232	326.000
+330.514	2.000	don't know	0.271	review a-b	don't know	restudy	face	object	scene	74	53	53	53	105	330.500
+335.012	2.000	don't know	0.483	review a-b	don't know	restudy	face	object	scene	75	61	61	61	113	335.000
+339.511	2.000	don't know	0.447	review a-b	don't know	restudy	scene	face	object	76	35	35	259	35	339.500
+344.010	2.000	don't know	0.403	review a-b	don't know	restudy	scene	object	face	77	83	83	283	135	344.000
+348.509	2.000	don't know	0.485	review a-b	don't know	test	object	face	scene	78	14	14	162	14	348.500
+353.008	2.000	correct	0.357	review a-b	object	restudy	face	object	scene	79	65	65	65	117	353.000
+357.507	2.000	incorrect	0.304	review a-b	face	restudy	face	object	scene	80	71	71	71	123	357.500
+362.022	2.000	don't know	0.324	review a-b	don't know	restudy	face	scene	object	81	115	115	91	219	362.000
+366.521	2.000	don't know	0.428	review a-b	don't know	restudy	scene	object	face	82	85	85	285	137	366.500
+371.020	2.000	don't know	0.394	review a-b	don't know	restudy	scene	face	object	83	45	45	269	45	371.000
+375.519	2.000	don't know	0.486	review a-b	don't know	test	face	scene	object	84	116	116	92	220	375.500
+380.018	2.000	don't know	0.387	review a-b	don't know	test	scene	face	object	85	46	46	270	46	380.000
+384.517	2.000	don't know	0.304	review a-b	don't know	restudy	scene	face	object	86	27	27	251	27	384.500
+389.016	2.000	don't know	0.410	review a-b	don't know	restudy	object	scene	face	87	135	135	187	239	389.000
+393.515	2.000	don't know	0.330	review a-b	don't know	test	face	object	scene	88	60	60	60	112	393.500
+398.013	2.000	correct	0.585	review a-b	object	test	scene	object	face	89	96	96	296	148	398.000
+402.512	2.000	correct	0.312	review a-b	face	restudy	object	face	scene	90	19	19	167	19	402.500
+407.011	2.000	don't know	0.014	review a-b	don't know	restudy	face	scene	object	91	111	111	87	215	407.000
+411.510	2.000	correct	0.306	review a-b	face	test	scene	face	object	92	48	48	272	48	411.500
+416.009	2.000	incorrect	0.505	review a-b	scene	test	scene	object	face	93	86	86	286	138	416.000
+420.508	2.000	correct	0.337	review a-b	scene	test	object	scene	face	94	132	132	184	236	420.500
+425.023	2.000	don't know	0.229	review a-b	don't know	restudy	scene	face	object	95	37	37	261	37	425.000
+429.522	2.000	don't know	0.411	review a-b	don't know	restudy	scene	face	object	96	25	25	249	25	429.500
+434.021	2.000	correct	0.306	review a-b	face	test	scene	face	object	97	42	42	266	42	434.000
+438.520	2.000	correct	0.256	review a-b	object	test	scene	object	face	98	90	90	290	142	438.500
+443.019	2.000	incorrect	0.593	review a-b	object	restudy	face	scene	object	99	109	109	85	213	443.000
+447.518	2.000	correct	0.470	review a-b	face	test	object	face	scene	100	18	18	166	18	447.500
+452.017	2.000	don't know	0.783	review a-b	don't know	restudy	object	scene	face	101	127	127	179	231	452.000
+456.516	2.000	correct	0.510	review a-b	face	test	object	face	scene	102	22	22	170	22	456.500
+461.014	2.000	don't know	0.272	review a-b	don't know	test	scene	object	face	103	88	88	288	140	461.000
+465.513	2.000	incorrect	0.348	review a-b	scene	restudy	object	face	scene	104	5	5	153	5	465.500
+470.012	2.000	don't know	0.453	review a-b	don't know	restudy	face	object	scene	105	69	69	69	121	470.000
+474.511	2.000	incorrect	0.531	review a-b	scene	restudy	object	face	scene	106	7	7	155	7	474.500
+479.010	2.000	correct	0.240	review a-b	face	restudy	object	face	scene	107	21	21	169	21	479.000
+483.509	2.000	don't know	0.297	review a-b	don't know	test	face	scene	object	108	102	102	78	206	483.500
+488.008	2.000	don't know	0.449	review a-b	don't know	restudy	face	scene	object	109	107	107	83	211	488.000
+492.507	2.000	correct	0.555	review a-b	object	test	face	object	scene	110	54	54	54	106	492.500
+497.022	2.000	don't know	0.306	review a-b	don't know	restudy	object	scene	face	111	123	123	175	227	497.000
+501.521	2.000	correct	0.448	review a-b	scene	restudy	object	scene	face	112	133	133	185	237	501.500
+506.020	2.000	correct	0.339	review a-b	scene	restudy	face	scene	object	113	113	113	89	217	506.000
+510.519	2.000	correct	0.472	review a-b	scene	test	face	scene	object	114	120	120	96	224	510.500
+515.018	2.000	correct	0.567	review a-b	scene	test	object	scene	face	115	144	144	196	248	515.000
+519.517	2.000	correct	0.362	review a-b	object	restudy	scene	object	face	116	95	95	295	147	519.500
+524.015	2.000	don't know	0.648	review a-b	don't know	test	object	face	scene	117	8	8	156	8	524.000
+528.514	2.000	correct	0.345	review a-b	face	test	scene	face	object	118	44	44	268	44	528.500
+533.013	2.000	incorrect	0.806	review a-b	face	test	face	object	scene	119	64	64	64	116	533.000
+537.512	2.000	correct	0.355	review a-b	object	test	face	object	scene	120	66	66	66	118	537.500
+542.011	2.000	don't know	0.405	review a-b	don't know	test	object	face	scene	121	6	6	154	6	542.000
+546.510	2.000	don't know	0.553	review a-b	don't know	restudy	face	object	scene	122	55	55	55	107	546.500
+551.009	2.000	don't know	0.166	review a-b	don't know	test	object	scene	face	123	126	126	178	230	551.000
+555.508	2.000	don't know	0.582	review a-b	don't know	test	object	face	scene	124	10	10	158	10	555.500
+560.006	2.000	incorrect	0.409	review a-b	scene	restudy	object	face	scene	125	11	11	159	11	560.000
+564.522	2.000	don't know	0.626	review a-b	don't know	test	scene	face	object	126	38	38	262	38	564.500
+569.021	2.000	correct	0.466	review a-b	object	restudy	scene	object	face	127	77	77	277	129	569.000
+573.520	2.000	correct	0.378	review a-b	face	test	scene	face	object	128	30	30	254	30	573.500
+578.019	2.000	don't know	0.383	review a-b	don't know	restudy	object	face	scene	129	17	17	165	17	578.000
+582.518	2.000	correct	0.435	review a-b	face	test	scene	face	object	130	36	36	260	36	582.500
+587.016	2.000	don't know	0.346	review a-b	don't know	test	object	face	scene	131	2	2	150	2	587.000
+591.515	2.000	don't know	0.326	review a-b	don't know	restudy	face	object	scene	132	63	63	63	115	591.500
+596.014	2.000	don't know	0.465	review a-b	don't know	restudy	face	scene	object	133	97	97	73	201	596.000
+600.513	2.000	don't know	0.332	review a-b	don't know	restudy	object	scene	face	134	129	129	181	233	600.500
+605.012	2.000	don't know	0.181	review a-b	don't know	test	face	object	scene	135	72	72	72	124	605.000
+609.511	2.000	incorrect	0.407	review a-b	face	restudy	scene	object	face	136	87	87	287	139	609.500
+614.010	2.000	don't know	0.639	review a-b	don't know	restudy	face	object	scene	137	67	67	67	119	614.000
+618.509	2.000	no response	n/a	review a-b	no response	restudy	scene	object	face	138	91	91	291	143	618.500
+623.008	2.000	don't know	0.813	review a-b	don't know	test	face	scene	object	139	110	110	86	214	623.000
+627.506	2.000	don't know	0.410	review a-b	don't know	restudy	scene	face	object	140	33	33	257	33	627.500
+632.022	2.000	don't know	0.382	review a-b	don't know	test	scene	object	face	141	92	92	292	144	632.000
+636.521	2.000	don't know	0.495	review a-b	don't know	restudy	scene	face	object	142	41	41	265	41	636.500
+641.020	2.000	correct	0.499	review a-b	face	restudy	scene	face	object	143	43	43	267	43	641.000
+645.519	2.000	correct	0.491	review a-b	object	restudy	face	object	scene	144	49	49	49	101	645.500
+2.007	2.000	don't know	0.326	review a-b	don't know	restudy	object	face	scene	145	15	15	163	15	2.000
+6.522	2.000	correct	0.492	review a-b	object	restudy	scene	object	face	146	79	79	279	131	6.500
+11.021	2.000	don't know	0.521	review a-b	don't know	test	scene	face	object	147	46	46	270	46	11.000
+15.520	2.000	incorrect	0.266	review a-b	object	restudy	object	scene	face	148	135	135	187	239	15.500
+20.019	2.000	correct	0.322	review a-b	object	restudy	face	object	scene	149	51	51	51	103	20.000
+24.518	2.000	correct	0.232	review a-b	face	restudy	scene	face	object	150	35	35	259	35	24.500
+29.017	2.000	correct	0.575	review a-b	object	restudy	face	object	scene	151	59	59	59	111	29.000
+33.516	2.000	correct	0.463	review a-b	scene	test	face	scene	object	152	106	106	82	210	33.500
+38.015	2.000	incorrect	0.796	review a-b	object	restudy	object	face	scene	153	5	5	153	5	38.000
+42.513	2.000	correct	0.347	review a-b	face	test	scene	face	object	154	34	34	258	34	42.500
+47.012	2.000	incorrect	0.494	review a-b	face	test	face	scene	object	155	116	116	92	220	47.000
+51.511	2.000	correct	0.506	review a-b	face	restudy	scene	face	object	156	39	39	263	39	51.500
+56.010	2.000	correct	0.339	review a-b	face	restudy	scene	face	object	157	41	41	265	41	56.000
+60.509	2.000	correct	0.115	review a-b	scene	test	face	scene	object	158	114	114	90	218	60.500
+65.008	2.000	correct	0.820	review a-b	object	test	scene	object	face	159	84	84	284	136	65.000
+69.507	2.000	correct	0.395	review a-b	scene	test	face	scene	object	160	108	108	84	212	69.500
+74.022	2.000	correct	0.401	review a-b	object	test	scene	object	face	161	88	88	288	140	74.000
+78.521	2.000	incorrect	0.558	review a-b	object	test	object	scene	face	162	126	126	178	230	78.500
+83.020	2.000	don't know	0.465	review a-b	don't know	restudy	object	face	scene	163	1	1	149	1	83.000
+87.519	2.000	correct	0.534	review a-b	face	restudy	object	face	scene	164	11	11	159	11	87.500
+92.018	2.000	correct	0.328	review a-b	scene	test	face	scene	object	165	102	102	78	206	92.000
+96.517	2.000	correct	0.326	review a-b	object	restudy	face	object	scene	166	63	63	63	115	96.500
+101.016	2.000	correct	0.347	review a-b	scene	restudy	object	scene	face	167	131	131	183	235	101.000
+105.514	2.000	correct	0.316	review a-b	scene	test	object	scene	face	168	124	124	176	228	105.500
+110.013	2.000	incorrect	0.668	review a-b	scene	restudy	face	object	scene	169	55	55	55	107	110.000
+114.512	2.000	correct	0.970	review a-b	face	test	object	face	scene	170	12	12	160	12	114.500
+119.011	2.000	correct	0.835	review a-b	object	test	scene	object	face	171	86	86	286	138	119.000
+123.510	2.000	correct	0.205	review a-b	face	test	object	face	scene	172	14	14	162	14	123.500
+128.009	2.000	incorrect	0.427	review a-b	scene	restudy	face	object	scene	173	71	71	71	123	128.000
+132.508	2.000	correct	0.484	review a-b	scene	restudy	face	scene	object	174	97	97	73	201	132.500
+137.007	2.000	correct	0.293	review a-b	scene	restudy	object	scene	face	175	123	123	175	227	137.000
+141.522	2.000	correct	0.328	review a-b	face	restudy	scene	face	object	176	29	29	253	29	141.500
+146.021	2.000	correct	0.474	review a-b	face	restudy	object	face	scene	177	13	13	161	13	146.000
+150.520	2.000	correct	0.431	review a-b	face	restudy	scene	face	object	178	27	27	251	27	150.500
+155.019	2.000	incorrect	0.236	review a-b	face	test	scene	object	face	179	80	80	280	132	155.000
+159.518	2.000	correct	0.307	review a-b	object	restudy	face	object	scene	180	53	53	53	105	159.500
+164.016	2.000	correct	0.238	review a-b	object	test	scene	object	face	181	76	76	276	128	164.000
+168.515	2.000	correct	0.409	review a-b	scene	test	face	scene	object	182	104	104	80	208	168.500
+173.014	2.000	don't know	0.268	review a-b	don't know	test	object	face	scene	183	16	16	164	16	173.000
+177.513	2.000	don't know	0.464	review a-b	don't know	restudy	object	face	scene	184	7	7	155	7	177.500
+182.012	2.000	don't know	0.520	review a-b	don't know	test	object	face	scene	185	24	24	172	24	182.000
+186.511	2.000	correct	0.654	review a-b	object	restudy	face	object	scene	186	61	61	61	113	186.500
+191.010	2.000	correct	0.222	review a-b	face	restudy	scene	face	object	187	31	31	255	31	191.000
+195.509	2.000	correct	0.260	review a-b	object	restudy	scene	object	face	188	91	91	291	143	195.500
+200.008	2.000	correct	0.485	review a-b	face	test	object	face	scene	189	8	8	156	8	200.000
+204.507	2.000	correct	0.455	review a-b	object	restudy	scene	object	face	190	85	85	285	137	204.500
+209.022	2.000	correct	0.393	review a-b	object	test	scene	object	face	191	92	92	292	144	209.000
+213.521	2.000	incorrect	0.509	review a-b	face	test	face	object	scene	192	64	64	64	116	213.500
+218.020	2.000	don't know	0.721	review a-b	don't know	restudy	scene	face	object	193	25	25	249	25	218.000
+222.519	2.000	incorrect	0.352	review a-b	object	restudy	object	scene	face	194	127	127	179	231	222.500
+227.017	2.000	correct	0.598	review a-b	object	restudy	face	object	scene	195	67	67	67	119	227.000
+231.516	2.000	correct	0.012	review a-b	face	restudy	object	face	scene	196	17	17	165	17	231.500
+236.015	2.000	don't know	0.456	review a-b	don't know	restudy	scene	object	face	197	73	73	273	125	236.000
+240.514	2.000	don't know	0.757	review a-b	don't know	restudy	face	scene	object	198	111	111	87	215	240.500
+245.013	2.000	correct	0.423	review a-b	object	restudy	face	object	scene	199	57	57	57	109	245.000
+249.512	2.000	don't know	0.533	review a-b	don't know	test	object	face	scene	200	6	6	154	6	249.500
+254.011	2.000	don't know	0.601	review a-b	don't know	restudy	object	face	scene	201	3	3	151	3	254.000
+258.510	2.000	correct	0.369	review a-b	object	test	face	object	scene	202	60	60	60	112	258.500
+263.009	2.000	correct	0.262	review a-b	scene	restudy	object	scene	face	203	129	129	181	233	263.000
+267.507	2.000	correct	0.709	review a-b	face	restudy	scene	face	object	204	45	45	269	45	267.500
+272.006	2.000	don't know	0.275	review a-b	don't know	restudy	face	scene	object	205	107	107	83	211	272.000
+276.522	2.000	don't know	0.333	review a-b	don't know	test	object	scene	face	206	134	134	186	238	276.500
+281.021	2.000	correct	0.270	review a-b	face	test	object	face	scene	207	2	2	150	2	281.000
+285.520	2.000	correct	0.402	review a-b	object	restudy	scene	object	face	208	75	75	275	127	285.500
+290.018	2.000	don't know	0.327	review a-b	don't know	test	object	scene	face	209	136	136	188	240	290.000
+294.517	2.000	correct	0.369	review a-b	scene	restudy	face	scene	object	210	119	119	95	223	294.500
+299.016	2.000	correct	0.322	review a-b	object	test	face	object	scene	211	56	56	56	108	299.000
+303.515	2.000	correct	0.336	review a-b	object	restudy	scene	object	face	212	89	89	289	141	303.500
+308.014	2.000	correct	0.531	review a-b	object	restudy	scene	object	face	213	87	87	287	139	308.000
+312.513	2.000	correct	0.325	review a-b	object	test	scene	object	face	214	78	78	278	130	312.500
+317.012	2.000	correct	0.358	review a-b	scene	test	face	scene	object	215	110	110	86	214	317.000
+321.511	2.000	correct	0.289	review a-b	face	test	scene	face	object	216	26	26	250	26	321.500
+326.010	2.000	incorrect	0.774	review a-b	object	restudy	object	scene	face	217	141	141	193	245	326.000
+330.525	2.000	incorrect	0.545	review a-b	scene	test	face	object	scene	218	70	70	70	122	330.500
+335.007	2.000	correct	0.619	review a-b	scene	test	object	scene	face	219	140	140	192	244	335.000
+339.506	2.000	don't know	0.310	review a-b	don't know	test	scene	face	object	220	28	28	252	28	339.500
+344.022	2.000	don't know	0.170	review a-b	don't know	test	scene	face	object	221	38	38	262	38	344.000
+348.521	2.000	correct	0.401	review a-b	scene	restudy	object	scene	face	222	137	137	189	241	348.500
+353.019	2.000	correct	0.339	review a-b	face	restudy	scene	face	object	223	37	37	261	37	353.000
+357.518	2.000	correct	0.372	review a-b	scene	restudy	object	scene	face	224	139	139	191	243	357.500
+362.017	2.000	incorrect	0.341	review a-b	object	test	object	face	scene	225	4	4	152	4	362.000
+366.516	2.000	don't know	0.372	review a-b	don't know	test	object	face	scene	226	10	10	158	10	366.500
+371.015	2.000	incorrect	0.269	review a-b	face	restudy	face	scene	object	227	103	103	79	207	371.000
+375.514	2.000	don't know	0.584	review a-b	don't know	restudy	scene	object	face	228	83	83	283	135	375.500
+380.013	2.000	don't know	0.167	review a-b	don't know	restudy	face	object	scene	229	69	69	69	121	380.000
+384.512	2.000	don't know	0.468	review a-b	don't know	restudy	scene	face	object	230	33	33	257	33	384.500
+389.010	2.000	correct	0.375	review a-b	scene	test	face	scene	object	231	112	112	88	216	389.000
+393.509	2.000	correct	0.259	review a-b	object	test	face	object	scene	232	72	72	72	124	393.500
+398.008	2.000	incorrect	0.399	review a-b	face	test	object	scene	face	233	142	142	194	246	398.000
+402.507	2.000	correct	0.309	review a-b	scene	restudy	face	scene	object	234	109	109	85	213	402.500
+407.023	2.000	correct	0.400	review a-b	scene	test	object	scene	face	235	138	138	190	242	407.000
+411.522	2.000	correct	0.313	review a-b	scene	restudy	face	scene	object	236	99	99	75	203	411.500
+416.020	2.000	incorrect	0.332	review a-b	object	test	object	face	scene	237	20	20	168	20	416.000
+420.519	2.000	correct	0.332	review a-b	scene	restudy	face	scene	object	238	115	115	91	219	420.500
+425.018	2.000	correct	0.175	review a-b	object	test	face	object	scene	239	50	50	50	102	425.000
+2.015	2.000	don't know	0.892	review a-b	don't know	restudy	face	object	scene	240	71	71	71	123	2.000
+6.514	2.000	correct	0.241	review a-b	face	restudy	object	face	scene	241	5	5	153	5	6.500
+11.013	2.000	don't know	0.469	review a-b	don't know	test	face	object	scene	242	64	64	64	116	11.000
+15.512	2.000	don't know	0.484	review a-b	don't know	restudy	object	face	scene	243	15	15	163	15	15.500
+20.011	2.000	correct	0.347	review a-b	scene	restudy	face	scene	object	244	111	111	87	215	20.000
+24.510	2.000	correct	0.251	review a-b	face	restudy	object	face	scene	245	1	1	149	1	24.500
+29.009	2.000	don't know	0.479	review a-b	don't know	restudy	scene	object	face	246	73	73	273	125	29.000
+33.508	2.000	don't know	0.299	review a-b	don't know	test	object	face	scene	247	20	20	168	20	33.500
+38.006	2.000	incorrect	0.764	review a-b	object	restudy	face	scene	object	248	103	103	79	207	38.000
+42.522	2.000	correct	0.313	review a-b	scene	restudy	object	scene	face	249	141	141	193	245	42.500
+47.021	2.000	correct	0.026	review a-b	face	test	object	face	scene	250	10	10	158	10	47.000
+51.520	2.000	correct	0.354	review a-b	scene	restudy	object	scene	face	251	127	127	179	231	51.500
+56.019	2.000	correct	0.304	review a-b	face	restudy	object	face	scene	252	3	3	151	3	56.000
+60.518	2.000	incorrect	0.499	review a-b	face	test	face	scene	object	253	116	116	92	220	60.500
+65.016	2.000	don't know	0.351	review a-b	don't know	test	object	scene	face	254	126	126	178	230	65.000
+69.515	2.000	don't know	0.346	review a-b	don't know	test	object	face	scene	255	4	4	152	4	69.500
+74.014	2.000	correct	0.299	review a-b	face	test	object	face	scene	256	6	6	154	6	74.000
+78.513	2.000	don't know	0.013	review a-b	don't know	test	object	scene	face	257	142	142	194	246	78.500
+83.012	2.000	don't know	0.778	review a-b	don't know	restudy	face	scene	object	258	107	107	83	211	83.000
+87.511	2.000	correct	0.445	review a-b	face	test	scene	face	object	259	46	46	270	46	87.500
+92.010	2.000	correct	0.327	review a-b	face	restudy	object	face	scene	260	7	7	155	7	92.000
+96.509	2.000	correct	0.680	review a-b	face	restudy	scene	face	object	261	33	33	257	33	96.500
+101.007	2.000	incorrect	0.828	review a-b	face	test	scene	object	face	262	80	80	280	132	101.000
+105.506	2.000	don't know	0.594	review a-b	don't know	test	object	scene	face	263	134	134	186	238	105.500
+110.022	2.000	incorrect	0.676	review a-b	face	restudy	scene	object	face	264	83	83	283	135	110.000
+114.521	2.000	no response	n/a	review a-b	no response	restudy	face	object	scene	265	55	55	55	107	114.500
+119.020	2.000	correct	0.349	review a-b	object	test	face	object	scene	266	70	70	70	122	119.000
+123.519	2.000	correct	0.281	review a-b	face	test	object	face	scene	267	24	24	172	24	123.500
+128.017	2.000	don't know	0.327	review a-b	don't know	restudy	face	object	scene	268	69	69	69	121	128.000
+132.516	2.000	correct	0.653	review a-b	face	test	scene	face	object	269	38	38	262	38	132.500
+137.015	2.000	don't know	0.547	review a-b	don't know	restudy	scene	face	object	270	25	25	249	25	137.000
+141.514	2.000	don't know	0.522	review a-b	don't know	test	object	scene	face	271	136	136	188	240	141.500
+146.013	2.000	correct	0.456	review a-b	face	test	scene	face	object	272	28	28	252	28	146.000
+150.512	2.000	correct	0.412	review a-b	scene	restudy	object	scene	face	273	135	135	187	239	150.500
+155.011	2.000	don't know	0.404	review a-b	don't know	test	object	face	scene	274	16	16	164	16	155.000
+2.016	2.000	incorrect	0.431	review a-b	face	test	face	scene	object	275	116	116	92	220	2.000
+6.515	2.000	correct	0.011	review a-b	face	test	object	face	scene	276	20	20	168	20	6.500
+11.014	2.000	don't know	0.586	review a-b	don't know	test	object	scene	face	277	142	142	194	246	11.000
+15.513	2.000	no response	n/a	review a-b	no response	restudy	object	face	scene	278	15	15	163	15	15.500
+20.012	2.000	don't know	0.400	review a-b	don't know	restudy	face	scene	object	279	107	107	83	211	20.000
+24.511	2.000	incorrect	0.503	review a-b	face	test	face	object	scene	280	64	64	64	116	24.500
+29.009	2.000	incorrect	0.675	review a-b	scene	restudy	scene	object	face	281	83	83	283	135	29.000
+33.508	2.000	don't know	0.265	review a-b	don't know	restudy	face	object	scene	282	55	55	55	107	33.500
+38.007	2.000	correct	0.502	review a-b	face	test	object	face	scene	283	16	16	164	16	38.000
+42.523	2.000	don't know	0.483	review a-b	don't know	test	scene	object	face	284	80	80	280	132	42.500
+47.021	2.000	correct	0.830	review a-b	face	test	object	face	scene	285	4	4	152	4	47.000
+51.520	2.000	don't know	0.686	review a-b	don't know	restudy	scene	object	face	286	73	73	273	125	51.500
+56.019	2.000	correct	0.421	review a-b	scene	test	object	scene	face	287	136	136	188	240	56.000
+60.518	2.000	correct	0.318	review a-b	scene	test	object	scene	face	288	126	126	178	230	60.500
+65.017	2.000	don't know	0.218	review a-b	don't know	restudy	face	object	scene	289	69	69	69	121	65.000
+69.516	2.000	don't know	0.686	review a-b	don't know	restudy	face	scene	object	290	103	103	79	207	69.500
+74.015	2.000	correct	0.493	review a-b	face	restudy	scene	face	object	291	25	25	249	25	74.000
+78.514	2.000	correct	0.528	review a-b	scene	test	object	scene	face	292	134	134	186	238	78.500
+83.012	2.000	correct	0.304	review a-b	object	restudy	face	object	scene	293	71	71	71	123	83.000
+2.016	2.000	no response	n/a	review a-b	no response	test	face	object	scene	294	64	64	64	116	2.000
+6.515	2.000	no response	n/a	review a-b	no response	restudy	face	object	scene	295	69	69	69	121	6.500
+11.014	2.000	don't know	0.398	review a-b	don't know	restudy	face	scene	object	296	107	107	83	211	11.000
+15.513	2.000	don't know	0.219	review a-b	don't know	test	object	scene	face	297	142	142	194	246	15.500
+20.012	2.000	don't know	0.366	review a-b	don't know	test	face	scene	object	298	116	116	92	220	20.000
+24.510	2.000	incorrect	0.347	review a-b	face	test	scene	object	face	299	80	80	280	132	24.500
+29.009	2.000	correct	0.266	review a-b	object	restudy	scene	object	face	300	73	73	273	125	29.000
+33.508	2.000	don't know	0.052	review a-b	don't know	restudy	scene	object	face	301	83	83	283	135	33.500
+38.007	2.000	correct	0.250	review a-b	face	restudy	object	face	scene	302	15	15	163	15	38.000
+42.506	2.000	incorrect	0.697	review a-b	face	restudy	face	object	scene	303	55	55	55	107	42.500
+47.021	2.000	don't know	0.393	review a-b	don't know	restudy	face	scene	object	304	103	103	79	207	47.000
+2.016	2.000	correct	0.268	review a-b	scene	restudy	face	scene	object	305	103	103	79	207	2.000
+6.515	2.000	incorrect	0.229	review a-b	object	test	face	scene	object	306	116	116	92	220	6.500
+11.014	2.000	incorrect	0.347	review a-b	face	test	object	scene	face	307	142	142	194	246	11.000
+15.513	2.000	incorrect	0.333	review a-b	scene	test	scene	object	face	308	80	80	280	132	15.500
+20.011	2.000	don't know	0.480	review a-b	don't know	test	face	object	scene	309	64	64	64	116	20.000
+24.510	2.000	don't know	0.754	review a-b	don't know	restudy	scene	object	face	310	83	83	283	135	24.500
+29.009	2.000	don't know	0.603	review a-b	don't know	restudy	face	object	scene	311	55	55	55	107	29.000
+33.508	2.000	don't know	0.943	review a-b	don't know	restudy	face	scene	object	312	107	107	83	211	33.500
+38.007	2.000	don't know	0.263	review a-b	don't know	restudy	face	object	scene	313	69	69	69	121	38.000
+2.016	2.000	correct	0.248	review a-b	object	restudy	face	object	scene	314	55	55	55	107	2.000
+6.515	2.000	correct	0.302	review a-b	object	test	scene	object	face	315	80	80	280	132	6.500
+11.014	2.000	correct	0.482	review a-b	object	restudy	face	object	scene	316	69	69	69	121	11.000
+15.513	2.000	incorrect	0.509	review a-b	object	test	object	scene	face	317	142	142	194	246	15.500
+20.012	2.000	correct	0.328	review a-b	object	restudy	scene	object	face	318	83	83	283	135	20.000
+24.510	2.000	correct	0.299	review a-b	object	test	face	object	scene	319	64	64	64	116	24.500
+29.009	2.000	correct	0.485	review a-b	scene	test	face	scene	object	320	116	116	92	220	29.000
+33.508	2.000	don't know	0.796	review a-b	don't know	restudy	face	scene	object	321	107	107	83	211	33.500
+2.016	2.000	correct	0.575	review a-b	scene	restudy	face	scene	object	322	107	107	83	211	2.000
+6.515	2.000	correct	0.888	review a-b	scene	test	object	scene	face	323	142	142	194	246	6.500
