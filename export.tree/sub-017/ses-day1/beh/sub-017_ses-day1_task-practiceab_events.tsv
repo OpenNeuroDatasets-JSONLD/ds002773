@@ -1,0 +1,366 @@
+onset	duration	trial_type	response_time	task_type	response_type	update_cond	cate_c	cate_b	cate_o	trial_id	word_id	img_id	stim_c	stim_b	design_onset
+2.010	2.000	no response	n/a	practice a-b	no response	test	face	scene	object	1	110	110	86	214	2.000
+6.508	2.000	no response	n/a	practice a-b	no response	test	object	scene	face	2	136	136	188	240	6.500
+11.007	2.000	correct	0.046	practice a-b	object	restudy	face	object	scene	3	65	65	65	117	11.000
+15.522	2.000	correct	0.686	practice a-b	face	restudy	scene	face	object	4	27	27	251	27	15.500
+20.021	2.000	incorrect	0.723	practice a-b	object	test	scene	face	object	5	42	42	266	42	20.000
+24.520	2.000	correct	0.589	practice a-b	face	restudy	scene	face	object	6	25	25	249	25	24.500
+29.018	2.000	incorrect	0.853	practice a-b	face	restudy	object	scene	face	7	135	135	187	239	29.000
+33.517	2.000	incorrect	0.748	practice a-b	face	restudy	face	scene	object	8	117	117	93	221	33.500
+38.015	2.000	no response	n/a	practice a-b	no response	restudy	scene	face	object	9	33	33	257	33	38.000
+42.514	2.000	incorrect	0.543	practice a-b	face	test	scene	object	face	10	88	88	288	140	42.500
+47.013	2.000	correct	0.694	practice a-b	face	test	scene	face	object	11	36	36	260	36	47.000
+51.511	2.000	incorrect	0.491	practice a-b	scene	test	face	object	scene	12	54	54	54	106	51.500
+56.010	2.000	no response	n/a	practice a-b	no response	restudy	object	face	scene	13	19	19	167	19	56.000
+60.509	2.000	no response	n/a	practice a-b	no response	restudy	scene	face	object	14	39	39	263	39	60.500
+65.007	2.000	correct	0.350	practice a-b	face	test	object	face	scene	15	8	8	156	8	65.000
+69.523	2.000	incorrect	0.011	practice a-b	scene	restudy	face	object	scene	16	51	51	51	103	69.500
+74.021	2.000	no response	n/a	practice a-b	no response	restudy	object	face	scene	17	23	23	171	23	74.000
+78.520	2.000	no response	n/a	practice a-b	no response	test	scene	face	object	18	48	48	272	48	78.500
+83.019	2.000	incorrect	0.410	practice a-b	face	test	face	scene	object	19	106	106	82	210	83.000
+87.517	2.000	no response	n/a	practice a-b	no response	restudy	scene	object	face	20	77	77	277	129	87.500
+92.016	2.000	incorrect	0.393	practice a-b	face	test	scene	object	face	21	74	74	274	126	92.000
+96.514	2.000	incorrect	0.681	practice a-b	scene	restudy	face	object	scene	22	57	57	57	109	96.500
+101.013	2.000	incorrect	0.744	practice a-b	face	test	scene	object	face	23	76	76	276	128	101.000
+105.512	2.000	no response	n/a	practice a-b	no response	restudy	scene	object	face	24	95	95	295	147	105.500
+110.010	2.000	correct	0.760	practice a-b	object	test	face	object	scene	25	60	60	60	112	110.000
+114.509	2.000	no response	n/a	practice a-b	no response	restudy	scene	object	face	26	75	75	275	127	114.500
+119.008	2.000	correct	0.608	practice a-b	face	test	scene	face	object	27	46	46	270	46	119.000
+123.506	2.000	don't know	0.196	practice a-b	don't know	test	face	object	scene	28	58	58	58	110	123.500
+128.022	2.000	correct	0.344	practice a-b	face	restudy	scene	face	object	29	31	31	255	31	128.000
+132.520	2.000	incorrect	0.437	practice a-b	object	test	object	scene	face	30	130	130	182	234	132.500
+137.019	2.000	incorrect	0.890	practice a-b	face	test	face	scene	object	31	102	102	78	206	137.000
+141.518	2.000	correct	0.343	practice a-b	face	test	scene	face	object	32	30	30	254	30	141.500
+146.016	2.000	correct	0.753	practice a-b	face	test	object	face	scene	33	12	12	160	12	146.000
+150.515	2.000	incorrect	0.772	practice a-b	face	restudy	face	scene	object	34	119	119	95	223	150.500
+155.013	2.000	no response	n/a	practice a-b	no response	restudy	scene	object	face	35	73	73	273	125	155.000
+159.512	2.000	no response	n/a	practice a-b	no response	restudy	face	scene	object	36	101	101	77	205	159.500
+164.011	2.000	no response	n/a	practice a-b	no response	test	face	object	scene	37	50	50	50	102	164.000
+168.509	2.000	incorrect	0.832	practice a-b	object	restudy	face	scene	object	38	103	103	79	207	168.500
+173.008	2.000	incorrect	0.642	practice a-b	face	restudy	face	scene	object	39	99	99	75	203	173.000
+177.507	2.000	incorrect	0.834	practice a-b	scene	restudy	scene	object	face	40	89	89	289	141	177.500
+182.022	2.000	incorrect	0.659	practice a-b	face	restudy	face	scene	object	41	115	115	91	219	182.000
+186.521	2.000	incorrect	0.894	practice a-b	scene	test	scene	object	face	42	78	78	278	130	186.500
+191.019	2.000	correct	0.597	practice a-b	object	restudy	face	object	scene	43	67	67	67	119	191.000
+195.518	2.000	no response	n/a	practice a-b	no response	test	scene	object	face	44	90	90	290	142	195.500
+200.017	2.000	no response	n/a	practice a-b	no response	restudy	face	scene	object	45	107	107	83	211	200.000
+204.515	2.000	correct	0.492	practice a-b	face	restudy	scene	face	object	46	35	35	259	35	204.500
+209.014	2.000	incorrect	0.689	practice a-b	scene	restudy	scene	object	face	47	87	87	287	139	209.000
+213.512	2.000	incorrect	0.760	practice a-b	face	test	object	scene	face	48	138	138	190	242	213.500
+218.011	2.000	incorrect	0.598	practice a-b	scene	test	object	face	scene	49	18	18	166	18	218.000
+222.510	2.000	correct	0.650	practice a-b	scene	test	face	scene	object	50	112	112	88	216	222.500
+227.008	2.000	correct	0.999	practice a-b	face	restudy	scene	face	object	51	47	47	271	47	227.000
+231.507	2.000	correct	0.272	practice a-b	scene	test	object	scene	face	52	122	122	174	226	231.500
+236.022	2.000	correct	0.011	practice a-b	face	test	object	face	scene	53	6	6	154	6	236.000
+240.521	2.000	correct	0.628	practice a-b	face	restudy	scene	face	object	54	45	45	269	45	240.500
+245.020	2.000	correct	0.951	practice a-b	object	restudy	face	object	scene	55	61	61	61	113	245.000
+249.518	2.000	incorrect	0.707	practice a-b	face	restudy	scene	object	face	56	83	83	283	135	249.500
+254.017	2.000	correct	0.906	practice a-b	scene	restudy	object	scene	face	57	137	137	189	241	254.000
+258.515	2.000	correct	0.668	practice a-b	object	test	scene	object	face	58	80	80	280	132	258.500
+263.014	2.000	correct	0.770	practice a-b	face	test	object	face	scene	59	22	22	170	22	263.000
+267.513	2.000	correct	0.526	practice a-b	object	test	scene	object	face	60	94	94	294	146	267.500
+272.011	2.000	incorrect	0.012	practice a-b	face	test	object	scene	face	61	144	144	196	248	272.000
+276.510	2.000	incorrect	0.575	practice a-b	object	restudy	object	scene	face	62	141	141	193	245	276.500
+281.009	2.000	incorrect	0.458	practice a-b	face	test	scene	object	face	63	82	82	282	134	281.000
+285.507	2.000	correct	0.575	practice a-b	face	test	object	face	scene	64	16	16	164	16	285.500
+290.023	2.000	no response	n/a	practice a-b	no response	test	object	face	scene	65	14	14	162	14	290.000
+294.521	2.000	incorrect	0.739	practice a-b	object	restudy	object	face	scene	66	15	15	163	15	294.500
+299.020	2.000	correct	0.481	practice a-b	scene	test	object	scene	face	67	142	142	194	246	299.000
+303.519	2.000	no response	n/a	practice a-b	no response	restudy	scene	object	face	68	91	91	291	143	303.500
+308.017	2.000	correct	0.843	practice a-b	scene	test	object	scene	face	69	132	132	184	236	308.000
+312.516	2.000	incorrect	0.540	practice a-b	face	restudy	face	object	scene	70	53	53	53	105	312.500
+317.014	2.000	incorrect	0.665	practice a-b	object	restudy	scene	face	object	71	41	41	265	41	317.000
+321.513	2.000	correct	0.272	practice a-b	face	restudy	object	face	scene	72	7	7	155	7	321.500
+326.012	2.000	no response	n/a	practice a-b	no response	test	scene	face	object	73	28	28	252	28	326.000
+330.510	2.000	incorrect	0.361	practice a-b	face	test	face	scene	object	74	118	118	94	222	330.500
+335.009	2.000	correct	0.747	practice a-b	scene	restudy	object	scene	face	75	125	125	177	229	335.000
+339.508	2.000	correct	0.655	practice a-b	object	restudy	scene	object	face	76	81	81	281	133	339.500
+344.006	2.000	correct	0.374	practice a-b	face	test	object	face	scene	77	24	24	172	24	344.000
+348.522	2.000	incorrect	0.009	practice a-b	face	test	face	object	scene	78	66	66	66	118	348.500
+353.020	2.000	no response	n/a	practice a-b	no response	restudy	object	scene	face	79	123	123	175	227	353.000
+357.519	2.000	incorrect	0.852	practice a-b	object	test	face	scene	object	80	100	100	76	204	357.500
+362.017	2.000	correct	0.531	practice a-b	face	test	object	face	scene	81	4	4	152	4	362.000
+366.516	2.000	correct	0.620	practice a-b	face	test	object	face	scene	82	2	2	150	2	366.500
+371.015	2.000	correct	0.814	practice a-b	face	restudy	object	face	scene	83	13	13	161	13	371.000
+375.513	2.000	incorrect	0.559	practice a-b	face	test	face	scene	object	84	114	114	90	218	375.500
+380.012	2.000	correct	0.605	practice a-b	object	test	scene	object	face	85	86	86	286	138	380.000
+384.511	2.000	no response	n/a	practice a-b	no response	restudy	face	scene	object	86	97	97	73	201	384.500
+389.009	2.000	incorrect	0.419	practice a-b	face	test	object	scene	face	87	134	134	186	238	389.000
+393.508	2.000	incorrect	0.673	practice a-b	object	test	face	scene	object	88	98	98	74	202	393.500
+398.007	2.000	correct	0.615	practice a-b	face	test	object	face	scene	89	10	10	158	10	398.000
+402.522	2.000	incorrect	0.886	practice a-b	scene	test	face	object	scene	90	72	72	72	124	402.500
+407.021	2.000	incorrect	0.519	practice a-b	face	test	face	scene	object	91	104	104	80	208	407.000
+411.519	2.000	correct	0.700	practice a-b	face	restudy	scene	face	object	92	37	37	261	37	411.500
+416.018	2.000	incorrect	0.010	practice a-b	face	restudy	face	object	scene	93	55	55	55	107	416.000
+420.516	2.000	incorrect	0.660	practice a-b	face	restudy	object	scene	face	94	127	127	179	231	420.500
+425.015	2.000	no response	n/a	practice a-b	no response	restudy	object	face	scene	95	3	3	151	3	425.000
+429.514	2.000	incorrect	0.581	practice a-b	face	restudy	face	object	scene	96	59	59	59	111	429.500
+434.012	2.000	incorrect	0.542	practice a-b	face	restudy	face	scene	object	97	113	113	89	217	434.000
+438.511	2.000	incorrect	0.799	practice a-b	scene	restudy	object	face	scene	98	17	17	165	17	438.500
+443.010	2.000	incorrect	0.381	practice a-b	face	restudy	face	object	scene	99	63	63	63	115	443.000
+447.508	2.000	incorrect	0.561	practice a-b	face	restudy	scene	object	face	100	79	79	279	131	447.500
+452.007	2.000	no response	n/a	practice a-b	no response	restudy	object	face	scene	101	1	1	149	1	452.000
+456.522	2.000	incorrect	0.296	practice a-b	face	test	face	object	scene	102	68	68	68	120	456.500
+461.021	2.000	incorrect	0.561	practice a-b	face	test	scene	object	face	103	96	96	296	148	461.000
+465.520	2.000	incorrect	0.391	practice a-b	face	restudy	face	object	scene	104	69	69	69	121	465.500
+470.018	2.000	incorrect	0.729	practice a-b	scene	restudy	object	face	scene	105	9	9	157	9	470.000
+474.517	2.000	correct	0.861	practice a-b	face	restudy	object	face	scene	106	21	21	169	21	474.500
+479.015	2.000	correct	0.589	practice a-b	face	restudy	scene	face	object	107	43	43	267	43	479.000
+483.514	2.000	correct	0.409	practice a-b	face	test	scene	face	object	108	38	38	262	38	483.500
+488.013	2.000	no response	n/a	practice a-b	no response	restudy	object	scene	face	109	139	139	191	243	488.000
+492.511	2.000	correct	0.891	practice a-b	object	test	face	object	scene	110	64	64	64	116	492.500
+497.010	2.000	incorrect	0.714	practice a-b	face	restudy	face	scene	object	111	109	109	85	213	497.000
+501.509	2.000	incorrect	0.277	practice a-b	scene	test	face	object	scene	112	56	56	56	108	501.500
+506.007	2.000	incorrect	0.505	practice a-b	face	restudy	face	scene	object	113	111	111	87	215	506.000
+510.506	2.000	correct	0.533	practice a-b	face	test	scene	face	object	114	32	32	256	32	510.500
+515.021	2.000	incorrect	0.886	practice a-b	face	test	scene	object	face	115	84	84	284	136	515.000
+519.520	2.000	no response	n/a	practice a-b	no response	test	scene	object	face	116	92	92	292	144	519.500
+524.019	2.000	incorrect	0.482	practice a-b	face	restudy	object	scene	face	117	121	121	173	225	524.000
+528.517	2.000	incorrect	0.343	practice a-b	face	restudy	face	object	scene	118	71	71	71	123	528.500
+533.016	2.000	correct	0.538	practice a-b	scene	restudy	face	scene	object	119	105	105	81	209	533.000
+537.514	2.000	incorrect	0.368	practice a-b	scene	test	face	object	scene	120	70	70	70	122	537.500
+542.013	2.000	incorrect	0.891	practice a-b	object	test	object	face	scene	121	20	20	168	20	542.000
+546.512	2.000	correct	0.558	practice a-b	face	restudy	scene	face	object	122	29	29	253	29	546.500
+551.010	2.000	correct	0.734	practice a-b	scene	restudy	object	scene	face	123	129	129	181	233	551.000
+555.509	2.000	no response	n/a	practice a-b	no response	test	face	scene	object	124	108	108	84	212	555.500
+560.008	2.000	correct	0.866	practice a-b	face	test	scene	face	object	125	40	40	264	40	560.000
+564.506	2.000	no response	n/a	practice a-b	no response	restudy	scene	object	face	126	85	85	285	137	564.500
+569.022	2.000	incorrect	0.539	practice a-b	face	test	face	scene	object	127	116	116	92	220	569.000
+573.520	2.000	incorrect	0.439	practice a-b	face	restudy	object	scene	face	128	143	143	195	247	573.500
+578.019	2.000	correct	0.809	practice a-b	face	test	scene	face	object	129	26	26	250	26	578.000
+582.518	2.000	correct	0.845	practice a-b	object	test	face	object	scene	130	52	52	52	104	582.500
+587.016	2.000	incorrect	0.680	practice a-b	face	test	face	object	scene	131	62	62	62	114	587.000
+591.515	2.000	correct	0.521	practice a-b	scene	test	object	scene	face	132	124	124	176	228	591.500
+596.013	2.000	incorrect	0.695	practice a-b	object	test	object	scene	face	133	140	140	192	244	596.000
+600.512	2.000	incorrect	0.471	practice a-b	object	test	scene	face	object	134	34	34	258	34	600.500
+605.011	2.000	incorrect	0.368	practice a-b	face	restudy	object	scene	face	135	131	131	183	235	605.000
+609.509	2.000	correct	0.653	practice a-b	scene	test	face	scene	object	136	120	120	96	224	609.500
+614.008	2.000	incorrect	0.916	practice a-b	object	restudy	object	face	scene	137	11	11	159	11	614.000
+618.507	2.000	incorrect	0.812	practice a-b	object	restudy	object	scene	face	138	133	133	185	237	618.500
+623.022	2.000	incorrect	0.726	practice a-b	face	test	object	scene	face	139	126	126	178	230	623.000
+627.521	2.000	correct	0.386	practice a-b	face	test	scene	face	object	140	44	44	268	44	627.500
+632.019	2.000	correct	0.684	practice a-b	object	restudy	face	object	scene	141	49	49	49	101	632.000
+636.518	2.000	incorrect	0.519	practice a-b	face	test	object	scene	face	142	128	128	180	232	636.500
+641.016	2.000	correct	0.558	practice a-b	object	restudy	scene	object	face	143	93	93	293	145	641.000
+645.515	2.000	incorrect	0.907	practice a-b	scene	restudy	object	face	scene	144	5	5	153	5	645.500
+2.011	2.000	incorrect	0.598	practice a-b	face	restudy	scene	object	face	145	75	75	275	127	2.000
+6.510	2.000	incorrect	0.557	practice a-b	object	restudy	object	scene	face	146	133	133	185	237	6.500
+11.008	2.000	incorrect	0.647	practice a-b	object	test	object	scene	face	147	128	128	180	232	11.000
+15.507	2.000	correct	0.623	practice a-b	object	restudy	scene	object	face	148	77	77	277	129	15.500
+20.022	2.000	incorrect	0.522	practice a-b	face	restudy	object	scene	face	149	127	127	179	231	20.000
+24.521	2.000	no response	n/a	practice a-b	no response	test	face	object	scene	150	50	50	50	102	24.500
+29.020	2.000	incorrect	0.574	practice a-b	object	restudy	face	scene	object	151	99	99	75	203	29.000
+33.518	2.000	correct	0.375	practice a-b	scene	test	face	scene	object	152	114	114	90	218	33.500
+38.017	2.000	correct	0.813	practice a-b	scene	restudy	face	scene	object	153	107	107	83	211	38.000
+42.515	2.000	correct	0.375	practice a-b	object	restudy	face	object	scene	154	69	69	69	121	42.500
+47.014	2.000	no response	n/a	practice a-b	no response	restudy	face	object	scene	155	51	51	51	103	47.000
+51.513	2.000	incorrect	0.457	practice a-b	object	test	scene	face	object	156	28	28	252	28	51.500
+56.011	2.000	correct	0.550	practice a-b	object	restudy	scene	object	face	157	89	89	289	141	56.000
+60.510	2.000	correct	0.434	practice a-b	object	test	face	object	scene	158	58	58	58	110	60.500
+65.009	2.000	incorrect	0.544	practice a-b	face	test	scene	object	face	159	90	90	290	142	65.000
+69.524	2.000	correct	0.369	practice a-b	object	restudy	face	object	scene	160	59	59	59	111	69.500
+74.023	2.000	correct	0.425	practice a-b	object	test	scene	object	face	161	76	76	276	128	74.000
+78.521	2.000	incorrect	0.881	practice a-b	object	restudy	face	scene	object	162	103	103	79	207	78.500
+83.020	2.000	incorrect	0.778	practice a-b	scene	restudy	object	face	scene	163	5	5	153	5	83.000
+87.519	2.000	correct	0.424	practice a-b	scene	test	face	scene	object	164	104	104	80	208	87.500
+92.017	2.000	incorrect	0.440	practice a-b	object	restudy	object	scene	face	165	135	135	187	239	92.000
+96.516	2.000	correct	0.754	practice a-b	scene	test	object	scene	face	166	126	126	178	230	96.500
+101.014	2.000	no response	n/a	practice a-b	no response	restudy	face	scene	object	167	115	115	91	219	101.000
+105.513	2.000	incorrect	0.263	practice a-b	object	test	face	scene	object	168	110	110	86	214	105.500
+110.012	2.000	correct	0.283	practice a-b	face	test	object	face	scene	169	20	20	168	20	110.000
+114.510	2.000	incorrect	0.374	practice a-b	object	restudy	object	scene	face	170	141	141	193	245	114.500
+119.009	2.000	incorrect	0.364	practice a-b	object	test	face	scene	object	171	108	108	84	212	119.000
+123.508	2.000	incorrect	0.563	practice a-b	face	restudy	face	object	scene	172	71	71	71	123	123.500
+128.023	2.000	incorrect	0.447	practice a-b	scene	test	object	face	scene	173	18	18	166	18	128.000
+132.522	2.000	incorrect	0.471	practice a-b	object	test	object	scene	face	174	136	136	188	240	132.500
+137.020	2.000	incorrect	0.494	practice a-b	object	restudy	object	scene	face	175	143	143	195	247	137.000
+141.519	2.000	correct	0.577	practice a-b	scene	test	face	scene	object	176	102	102	78	206	141.500
+146.018	2.000	correct	0.392	practice a-b	scene	restudy	face	scene	object	177	117	117	93	221	146.000
+150.516	2.000	no response	n/a	practice a-b	no response	restudy	scene	face	object	178	41	41	265	41	150.500
+155.015	2.000	correct	0.292	practice a-b	face	restudy	scene	face	object	179	39	39	263	39	155.000
+159.514	2.000	no response	n/a	practice a-b	no response	test	object	face	scene	180	14	14	162	14	159.500
+164.012	2.000	incorrect	0.288	practice a-b	scene	test	face	object	scene	181	66	66	66	118	164.000
+168.511	2.000	incorrect	0.595	practice a-b	object	test	face	scene	object	182	106	106	82	210	168.500
+173.009	2.000	incorrect	0.440	practice a-b	object	test	scene	face	object	183	42	42	266	42	173.000
+177.508	2.000	correct	0.386	practice a-b	object	test	scene	object	face	184	88	88	288	140	177.500
+182.007	2.000	incorrect	0.305	practice a-b	scene	restudy	object	face	scene	185	15	15	163	15	182.000
+186.522	2.000	incorrect	0.336	practice a-b	face	restudy	scene	object	face	186	95	95	295	147	186.500
+191.021	2.000	incorrect	0.474	practice a-b	object	test	scene	face	object	187	34	34	258	34	191.000
+195.519	2.000	incorrect	0.546	practice a-b	face	test	object	scene	face	188	144	144	196	248	195.500
+200.018	2.000	incorrect	0.418	practice a-b	scene	restudy	face	object	scene	189	63	63	63	115	200.000
+204.516	2.000	correct	0.498	practice a-b	object	restudy	face	object	scene	190	57	57	57	109	204.500
+209.015	2.000	incorrect	0.590	practice a-b	scene	test	face	object	scene	191	68	68	68	120	209.000
+213.514	2.000	correct	0.622	practice a-b	object	test	scene	object	face	192	84	84	284	136	213.500
+218.012	2.000	correct	0.573	practice a-b	scene	restudy	object	scene	face	193	121	121	173	225	218.000
+222.511	2.000	incorrect	0.467	practice a-b	face	test	face	object	scene	194	62	62	62	114	222.500
+227.010	2.000	correct	0.539	practice a-b	scene	restudy	face	scene	object	195	119	119	95	223	227.000
+231.508	2.000	incorrect	0.525	practice a-b	scene	test	scene	object	face	196	92	92	292	144	231.500
+236.007	2.000	incorrect	0.418	practice a-b	object	restudy	object	face	scene	197	9	9	157	9	236.000
+240.522	2.000	incorrect	0.499	practice a-b	face	test	face	object	scene	198	70	70	70	122	240.500
+245.021	2.000	incorrect	0.271	practice a-b	scene	restudy	object	face	scene	199	1	1	149	1	245.000
+249.520	2.000	incorrect	0.451	practice a-b	face	restudy	face	object	scene	200	55	55	55	107	249.500
+254.018	2.000	incorrect	0.478	practice a-b	face	restudy	scene	object	face	201	83	83	283	135	254.000
+258.517	2.000	incorrect	0.327	practice a-b	scene	restudy	scene	face	object	202	33	33	257	33	258.500
+263.015	2.000	incorrect	0.437	practice a-b	face	restudy	object	scene	face	203	131	131	183	235	263.000
+267.514	2.000	incorrect	0.380	practice a-b	face	restudy	scene	object	face	204	73	73	273	125	267.500
+272.013	2.000	correct	0.840	practice a-b	scene	test	object	scene	face	205	138	138	190	242	272.000
+276.511	2.000	incorrect	0.481	practice a-b	object	test	face	scene	object	206	100	100	76	204	276.500
+281.010	2.000	correct	0.886	practice a-b	object	restudy	face	object	scene	207	53	53	53	105	281.000
+285.509	2.000	incorrect	0.805	practice a-b	scene	restudy	object	face	scene	208	11	11	159	11	285.500
+290.007	2.000	incorrect	0.368	practice a-b	face	test	object	scene	face	209	134	134	186	238	290.000
+294.523	2.000	incorrect	0.485	practice a-b	object	restudy	object	scene	face	210	123	123	175	227	294.500
+299.021	2.000	correct	0.526	practice a-b	face	restudy	object	face	scene	211	23	23	171	23	299.000
+303.520	2.000	incorrect	0.471	practice a-b	face	test	face	scene	object	212	118	118	94	222	303.500
+308.019	2.000	correct	0.691	practice a-b	object	test	scene	object	face	213	82	82	282	134	308.000
+312.517	2.000	incorrect	0.533	practice a-b	scene	test	scene	object	face	214	74	74	274	126	312.500
+317.016	2.000	incorrect	0.318	practice a-b	scene	restudy	object	face	scene	215	19	19	167	19	317.000
+321.515	2.000	correct	0.628	practice a-b	object	restudy	scene	object	face	216	85	85	285	137	321.500
+326.013	2.000	correct	0.597	practice a-b	face	restudy	object	face	scene	217	17	17	165	17	326.000
+330.512	2.000	correct	0.454	practice a-b	scene	restudy	face	scene	object	218	109	109	85	213	330.500
+335.010	2.000	incorrect	0.515	practice a-b	object	test	face	scene	object	219	116	116	92	220	335.000
+339.509	2.000	correct	0.433	practice a-b	scene	test	object	scene	face	220	140	140	192	244	339.500
+344.008	2.000	correct	0.614	practice a-b	object	restudy	scene	object	face	221	79	79	279	131	344.000
+348.523	2.000	incorrect	0.668	practice a-b	object	restudy	face	scene	object	222	111	111	87	215	348.500
+353.022	2.000	incorrect	0.441	practice a-b	scene	test	face	object	scene	223	54	54	54	106	353.000
+357.520	2.000	incorrect	0.764	practice a-b	object	restudy	object	scene	face	224	139	139	191	243	357.500
+362.019	2.000	correct	0.410	practice a-b	object	test	scene	object	face	225	78	78	278	130	362.000
+366.517	2.000	incorrect	0.736	practice a-b	face	restudy	scene	object	face	226	87	87	287	139	366.500
+371.016	2.000	incorrect	0.393	practice a-b	object	restudy	face	scene	object	227	97	97	73	201	371.000
+375.515	2.000	incorrect	0.693	practice a-b	face	test	face	object	scene	228	56	56	56	108	375.500
+380.013	2.000	incorrect	0.331	practice a-b	scene	restudy	scene	object	face	229	91	91	291	143	380.000
+384.512	2.000	correct	0.244	practice a-b	scene	restudy	face	scene	object	230	113	113	89	217	384.500
+389.011	2.000	correct	0.686	practice a-b	face	restudy	object	face	scene	231	3	3	151	3	389.000
+393.509	2.000	incorrect	0.385	practice a-b	object	test	object	scene	face	232	130	130	182	234	393.500
+398.008	2.000	incorrect	0.656	practice a-b	object	test	face	scene	object	233	98	98	74	202	398.000
+402.507	2.000	correct	0.436	practice a-b	scene	restudy	face	scene	object	234	101	101	77	205	402.500
+407.022	2.000	correct	0.508	practice a-b	face	test	scene	face	object	235	48	48	272	48	407.000
+411.521	2.000	no response	n/a	practice a-b	no response	test	scene	object	face	236	96	96	296	148	411.500
+416.019	2.000	correct	0.233	practice a-b	object	test	face	object	scene	237	72	72	72	124	416.000
+2.007	2.000	no response	n/a	practice a-b	no response	restudy	object	face	scene	238	11	11	159	11	2.000
+6.522	2.000	correct	0.013	practice a-b	scene	test	object	scene	face	239	134	134	186	238	6.500
+11.021	2.000	incorrect	0.765	practice a-b	object	restudy	object	face	scene	240	15	15	163	15	11.000
+15.520	2.000	correct	0.608	practice a-b	object	test	face	object	scene	241	62	62	62	114	15.500
+20.018	2.000	incorrect	0.528	practice a-b	object	restudy	scene	face	object	242	41	41	265	41	20.000
+24.517	2.000	correct	0.390	practice a-b	object	test	face	object	scene	243	70	70	70	122	24.500
+29.016	2.000	correct	0.484	practice a-b	object	test	scene	object	face	244	90	90	290	142	29.000
+33.514	2.000	incorrect	0.728	practice a-b	scene	test	object	face	scene	245	18	18	166	18	33.500
+38.013	2.000	incorrect	0.377	practice a-b	object	test	face	scene	object	246	118	118	94	222	38.000
+42.512	2.000	incorrect	0.348	practice a-b	object	restudy	object	scene	face	247	139	139	191	243	42.500
+47.010	2.000	incorrect	0.277	practice a-b	face	test	face	scene	object	248	106	106	82	210	47.000
+51.509	2.000	incorrect	0.306	practice a-b	object	restudy	object	scene	face	249	131	131	183	235	51.500
+56.007	2.000	correct	0.533	practice a-b	object	restudy	face	object	scene	250	55	55	55	107	56.000
+60.506	2.000	incorrect	0.407	practice a-b	face	test	scene	object	face	251	96	96	296	148	60.500
+65.021	2.000	incorrect	0.300	practice a-b	face	restudy	scene	object	face	252	73	73	273	125	65.000
+69.520	2.000	incorrect	0.114	practice a-b	face	test	object	scene	face	253	144	144	196	248	69.500
+74.019	2.000	correct	0.315	practice a-b	scene	restudy	face	scene	object	254	97	97	73	201	74.000
+78.517	2.000	correct	0.437	practice a-b	scene	test	face	scene	object	255	116	116	92	220	78.500
+83.016	2.000	incorrect	0.403	practice a-b	object	restudy	object	face	scene	256	5	5	153	5	83.000
+87.515	2.000	no response	n/a	practice a-b	no response	restudy	scene	object	face	257	83	83	283	135	87.500
+92.013	2.000	incorrect	0.536	practice a-b	object	restudy	object	scene	face	258	123	123	175	227	92.000
+96.512	2.000	incorrect	0.008	practice a-b	scene	test	scene	object	face	259	74	74	274	126	96.500
+101.011	2.000	incorrect	0.424	practice a-b	object	test	object	scene	face	260	128	128	180	232	101.000
+105.509	2.000	correct	0.512	practice a-b	scene	restudy	object	scene	face	261	133	133	185	237	105.500
+110.008	2.000	correct	0.321	practice a-b	face	test	scene	face	object	262	34	34	258	34	110.000
+114.506	2.000	correct	0.702	practice a-b	object	test	scene	object	face	263	92	92	292	144	114.500
+119.022	2.000	correct	0.591	practice a-b	object	restudy	scene	object	face	264	95	95	295	147	119.000
+123.520	2.000	incorrect	0.474	practice a-b	face	test	face	scene	object	265	110	110	86	214	123.500
+128.019	2.000	correct	0.377	practice a-b	scene	restudy	object	scene	face	266	141	141	193	245	128.000
+132.518	2.000	correct	0.497	practice a-b	object	test	face	object	scene	267	66	66	66	118	132.500
+137.016	2.000	incorrect	0.468	practice a-b	object	restudy	face	scene	object	268	111	111	87	215	137.000
+141.515	2.000	correct	0.352	practice a-b	scene	restudy	object	scene	face	269	127	127	179	231	141.500
+146.014	2.000	incorrect	0.556	practice a-b	scene	test	face	object	scene	270	56	56	56	108	146.000
+150.512	2.000	incorrect	0.404	practice a-b	scene	restudy	object	face	scene	271	19	19	167	19	150.500
+155.011	2.000	incorrect	0.352	practice a-b	object	test	scene	face	object	272	28	28	252	28	155.000
+159.510	2.000	incorrect	0.540	practice a-b	object	test	object	face	scene	273	14	14	162	14	159.500
+164.008	2.000	correct	0.366	practice a-b	object	test	face	object	scene	274	54	54	54	106	164.000
+168.507	2.000	incorrect	0.349	practice a-b	scene	restudy	scene	face	object	275	33	33	257	33	168.500
+173.022	2.000	incorrect	0.924	practice a-b	face	test	face	scene	object	276	108	108	84	212	173.000
+177.521	2.000	incorrect	0.210	practice a-b	object	restudy	face	scene	object	277	103	103	79	207	177.500
+182.019	2.000	incorrect	0.390	practice a-b	object	restudy	object	scene	face	278	143	143	195	247	182.000
+186.518	2.000	incorrect	0.386	practice a-b	face	restudy	face	object	scene	279	71	71	71	123	186.500
+191.017	2.000	incorrect	0.436	practice a-b	object	test	face	scene	object	280	100	100	76	204	191.000
+195.515	2.000	correct	0.365	practice a-b	face	test	scene	face	object	281	42	42	266	42	195.500
+200.014	2.000	correct	0.599	practice a-b	face	restudy	object	face	scene	282	9	9	157	9	200.000
+204.513	2.000	incorrect	0.730	practice a-b	face	restudy	face	object	scene	283	51	51	51	103	204.500
+209.011	2.000	incorrect	0.771	practice a-b	face	restudy	scene	object	face	284	87	87	287	139	209.000
+213.510	2.000	incorrect	0.701	practice a-b	face	restudy	face	object	scene	285	63	63	63	115	213.500
+218.009	2.000	incorrect	0.482	practice a-b	scene	test	face	object	scene	286	50	50	50	102	218.000
+222.507	2.000	incorrect	0.305	practice a-b	face	test	object	scene	face	287	130	130	182	234	222.500
+227.022	2.000	correct	0.747	practice a-b	scene	test	object	scene	face	288	136	136	188	240	227.000
+231.521	2.000	incorrect	0.607	practice a-b	object	restudy	object	scene	face	289	135	135	187	239	231.500
+236.020	2.000	incorrect	0.441	practice a-b	face	test	face	scene	object	290	98	98	74	202	236.000
+240.518	2.000	correct	0.420	practice a-b	scene	restudy	face	scene	object	291	99	99	75	203	240.500
+245.017	2.000	incorrect	0.486	practice a-b	scene	restudy	object	face	scene	292	1	1	149	1	245.000
+249.516	2.000	correct	0.501	practice a-b	object	restudy	scene	object	face	293	75	75	275	127	249.500
+254.014	2.000	incorrect	0.709	practice a-b	face	test	face	object	scene	294	68	68	68	120	254.000
+258.513	2.000	correct	0.311	practice a-b	scene	restudy	face	scene	object	295	115	115	91	219	258.500
+263.012	2.000	correct	0.749	practice a-b	object	restudy	scene	object	face	296	91	91	291	143	263.000
+2.007	2.000	incorrect	0.577	practice a-b	face	test	face	scene	object	297	118	118	94	222	2.000
+6.506	2.000	correct	0.520	practice a-b	face	restudy	object	face	scene	298	1	1	149	1	6.500
+11.021	2.000	correct	0.615	practice a-b	object	restudy	face	object	scene	299	63	63	63	115	11.000
+15.520	2.000	correct	0.555	practice a-b	face	test	object	face	scene	300	18	18	166	18	15.500
+20.019	2.000	incorrect	0.344	practice a-b	object	restudy	object	scene	face	301	139	139	191	243	20.000
+24.517	2.000	incorrect	0.402	practice a-b	face	test	object	scene	face	302	130	130	182	234	24.500
+29.016	2.000	incorrect	0.432	practice a-b	object	test	face	scene	object	303	106	106	82	210	29.000
+33.515	2.000	correct	0.357	practice a-b	object	test	scene	object	face	304	96	96	296	148	33.500
+38.013	2.000	correct	0.384	practice a-b	object	restudy	scene	object	face	305	73	73	273	125	38.000
+42.512	2.000	incorrect	0.479	practice a-b	object	restudy	object	scene	face	306	123	123	175	227	42.500
+47.010	2.000	incorrect	0.752	practice a-b	object	restudy	face	scene	object	307	103	103	79	207	47.000
+51.509	2.000	correct	0.532	practice a-b	object	test	face	object	scene	308	50	50	50	102	51.500
+56.008	2.000	correct	0.441	practice a-b	scene	test	face	scene	object	309	108	108	84	212	56.000
+60.506	2.000	incorrect	0.601	practice a-b	scene	test	face	object	scene	310	68	68	68	120	60.500
+65.022	2.000	correct	0.565	practice a-b	face	restudy	scene	face	object	311	41	41	265	41	65.000
+69.520	2.000	correct	0.898	practice a-b	scene	test	object	scene	face	312	144	144	196	248	69.500
+74.019	2.000	incorrect	0.677	practice a-b	object	restudy	scene	face	object	313	33	33	257	33	74.000
+78.518	2.000	incorrect	0.515	practice a-b	face	restudy	face	object	scene	314	71	71	71	123	78.500
+83.016	2.000	incorrect	0.361	practice a-b	object	test	face	scene	object	315	100	100	76	204	83.000
+87.515	2.000	incorrect	0.370	practice a-b	object	test	scene	face	object	316	28	28	252	28	87.500
+92.013	2.000	no response	n/a	practice a-b	no response	restudy	object	face	scene	317	15	15	163	15	92.000
+96.512	2.000	correct	0.472	practice a-b	object	restudy	scene	object	face	318	87	87	287	139	96.500
+101.011	2.000	incorrect	0.613	practice a-b	object	restudy	object	scene	face	319	143	143	195	247	101.000
+105.509	2.000	correct	0.519	practice a-b	scene	test	object	scene	face	320	128	128	180	232	105.500
+110.008	2.000	incorrect	0.452	practice a-b	object	test	face	scene	object	321	98	98	74	202	110.000
+114.507	2.000	incorrect	0.496	practice a-b	scene	test	scene	object	face	322	74	74	274	126	114.500
+119.022	2.000	incorrect	0.523	practice a-b	object	restudy	object	scene	face	323	131	131	183	235	119.000
+123.521	2.000	correct	0.416	practice a-b	face	test	object	face	scene	324	14	14	162	14	123.500
+128.019	2.000	incorrect	0.329	practice a-b	object	restudy	object	face	scene	325	5	5	153	5	128.000
+132.518	2.000	correct	0.326	practice a-b	scene	restudy	object	scene	face	326	135	135	187	239	132.500
+137.017	2.000	incorrect	0.474	practice a-b	object	test	face	scene	object	327	110	110	86	214	137.000
+141.515	2.000	correct	0.440	practice a-b	object	restudy	face	object	scene	328	51	51	51	103	141.500
+146.014	2.000	incorrect	0.531	practice a-b	object	restudy	object	face	scene	329	11	11	159	11	146.000
+150.512	2.000	correct	0.319	practice a-b	face	restudy	object	face	scene	330	19	19	167	19	150.500
+155.011	2.000	incorrect	0.375	practice a-b	face	restudy	scene	object	face	331	83	83	283	135	155.000
+159.510	2.000	correct	0.525	practice a-b	object	test	face	object	scene	332	56	56	56	108	159.500
+164.008	2.000	incorrect	0.408	practice a-b	object	restudy	face	scene	object	333	111	111	87	215	164.000
+2.016	2.000	incorrect	0.485	practice a-b	object	test	face	scene	object	334	110	110	86	214	2.000
+6.515	2.000	correct	0.374	practice a-b	scene	restudy	object	scene	face	335	139	139	191	243	6.500
+11.013	2.000	incorrect	0.439	practice a-b	scene	restudy	scene	face	object	336	33	33	257	33	11.000
+15.512	2.000	no response	n/a	practice a-b	no response	test	object	scene	face	337	130	130	182	234	15.500
+20.010	2.000	correct	0.536	practice a-b	face	test	scene	face	object	338	28	28	252	28	20.000
+24.509	2.000	correct	0.459	practice a-b	scene	restudy	object	scene	face	339	131	131	183	235	24.500
+29.008	2.000	incorrect	0.443	practice a-b	scene	test	scene	object	face	340	74	74	274	126	29.000
+33.506	2.000	incorrect	0.409	practice a-b	scene	restudy	object	face	scene	341	5	5	153	5	33.500
+38.022	2.000	incorrect	0.652	practice a-b	scene	restudy	face	object	scene	342	71	71	71	123	38.000
+42.520	2.000	correct	0.585	practice a-b	scene	test	face	scene	object	343	98	98	74	202	42.500
+47.019	2.000	correct	0.374	practice a-b	object	restudy	scene	object	face	344	83	83	283	135	47.000
+51.518	2.000	correct	0.832	practice a-b	scene	test	face	scene	object	345	100	100	76	204	51.500
+56.016	2.000	correct	0.888	practice a-b	scene	restudy	object	scene	face	346	123	123	175	227	56.000
+60.515	2.000	correct	0.499	practice a-b	scene	restudy	face	scene	object	347	103	103	79	207	60.500
+65.014	2.000	correct	0.599	practice a-b	scene	restudy	object	scene	face	348	143	143	195	247	65.000
+69.512	2.000	correct	0.681	practice a-b	scene	restudy	face	scene	object	349	111	111	87	215	69.500
+74.011	2.000	incorrect	0.505	practice a-b	scene	restudy	object	face	scene	350	11	11	159	11	74.000
+78.509	2.000	correct	0.313	practice a-b	face	restudy	object	face	scene	351	15	15	163	15	78.500
+83.008	2.000	correct	0.861	practice a-b	scene	test	face	scene	object	352	118	118	94	222	83.000
+87.507	2.000	correct	0.469	practice a-b	scene	test	face	scene	object	353	106	106	82	210	87.500
+92.022	2.000	correct	0.631	practice a-b	object	test	face	object	scene	354	68	68	68	120	92.000
+2.016	2.000	incorrect	0.710	practice a-b	object	restudy	scene	face	object	355	33	33	257	33	2.000
+6.515	2.000	correct	0.319	practice a-b	scene	test	face	scene	object	356	110	110	86	214	6.500
+11.013	2.000	incorrect	0.398	practice a-b	object	restudy	object	face	scene	357	5	5	153	5	11.000
+15.512	2.000	incorrect	0.593	practice a-b	scene	restudy	object	face	scene	358	11	11	159	11	15.500
+20.010	2.000	correct	0.319	practice a-b	scene	test	object	scene	face	359	130	130	182	234	20.000
+24.509	2.000	correct	0.637	practice a-b	object	restudy	face	object	scene	360	71	71	71	123	24.500
+29.008	2.000	correct	0.458	practice a-b	object	test	scene	object	face	361	74	74	274	126	29.000
+2.016	2.000	incorrect	0.649	practice a-b	scene	restudy	object	face	scene	362	5	5	153	5	2.000
+6.515	2.000	correct	0.356	practice a-b	face	restudy	scene	face	object	363	33	33	257	33	6.500
+11.013	2.000	correct	0.409	practice a-b	face	restudy	object	face	scene	364	11	11	159	11	11.000
+2.016	2.000	correct	0.674	practice a-b	face	restudy	object	face	scene	365	5	5	153	5	2.000
