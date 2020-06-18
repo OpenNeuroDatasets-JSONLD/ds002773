@@ -1,0 +1,73 @@
+onset	duration	trial_type	response_time	task_type	update_cond	repetition	cate_c	cate_b	cate_o	response_type	response	subs_response	subs_score	trial_id	run_id	word_id	img_id	stim_c	stim_b	design_onset	item_position
+1.020	2.000	forget	0.515	updating	retprac	1	scene	object	face	other	face	other	forget	1	5	89	137	289	141	1.000	2
+5.670	2.000	forget	0.314	updating	retprac	1	scene	face	object	competitor	face	target	remember	2	5	43	115	267	43	5.649	5
+11.086	2.000	remember	0.337	updating	restudy	1	object	scene	face	target	object	competitor	forget	3	5	140	92	192	244	11.063	13
+15.969	2.000	remember	0.342	updating	retprac	1	scene	face	object	target	scene	target	remember	4	5	41	113	265	41	15.948	8
+22.618	2.000	remember	0.461	updating	restudy	1	object	scene	face	target	object	competitor	forget	5	5	138	90	190	242	22.600	24
+32.250	2.000	forget	0.420	updating	retprac	1	face	object	scene	other	scene	competitor	forget	6	5	65	17	65	117	32.243	9
+40.749	2.000	remember	0.336	updating	retprac	1	object	scene	face	target	object	target	remember	7	5	137	89	189	241	40.727	1
+49.898	2.000	remember	0.315	updating	restudy	1	face	object	scene	target	face	competitor	forget	8	5	68	20	68	120	49.876	23
+55.065	2.000	remember	0.396	updating	restudy	1	face	scene	object	target	face	competitor	forget	9	5	116	44	92	220	55.051	17
+60.064	2.000	forget	0.373	updating	retprac	1	face	scene	object	competitor	scene	target	remember	10	5	115	43	91	219	60.057	3
+69.763	2.000	remember	0.377	updating	restudy	1	object	face	scene	target	object	competitor	forget	11	5	20	68	168	20	69.745	19
+74.329	2.000	remember	0.251	updating	retprac	1	face	scene	object	target	face	target	remember	12	5	113	41	89	217	74.317	10
+84.262	2.000	remember	0.358	updating	restudy	1	scene	object	face	target	scene	competitor	forget	13	5	90	138	290	142	84.250	22
+88.844	2.000	remember	0.439	updating	restudy	1	object	face	scene	target	object	competitor	forget	14	5	18	66	166	18	88.837	21
+94.211	2.000	forget	0.625	updating	retprac	2	scene	face	object	competitor	face	target	remember	15	5	43	115	267	43	94.197	5
+101.027	2.000	remember	0.320	updating	restudy	1	scene	object	face	target	scene	competitor	forget	16	5	92	140	292	144	101.011	15
+107.809	2.000	remember	0.298	updating	retprac	2	scene	face	object	target	scene	target	remember	17	5	41	113	265	41	107.794	8
+112.525	2.000	remember	0.445	updating	restudy	2	object	scene	face	target	object	competitor	forget	18	5	140	92	192	244	112.506	13
+117.558	2.000	forget	0.444	updating	retprac	1	object	scene	face	other	face	target	remember	19	5	139	91	191	243	117.545	7
+122.858	2.000	remember	0.417	updating	restudy	1	scene	face	object	target	scene	other	forget	20	5	42	114	266	42	122.835	20
+127.657	2.000	forget	0.465	updating	retprac	1	object	face	scene	other	scene	other	forget	21	5	17	65	165	17	127.641	6
+136.839	2.000	remember	0.034	updating	restudy	1	scene	face	object	target	scene	competitor	forget	22	5	44	116	268	44	136.817	18
+141.556	2.000	remember	0.437	updating	restudy	1	face	scene	object	target	face	competitor	forget	23	5	114	42	90	218	141.547	16
+147.088	2.000	remember	0.408	updating	restudy	2	object	face	scene	target	object	competitor	forget	24	5	20	68	168	20	147.078	19
+152.721	2.000	no response	n/a	updating	restudy	2	object	face	scene	no response	no response	competitor	forget	25	5	18	66	166	18	152.702	21
+157.238	2.000	remember	0.371	updating	restudy	1	face	object	scene	target	face	competitor	forget	26	5	66	18	66	118	157.220	14
+162.220	2.000	remember	0.396	updating	restudy	2	face	object	scene	target	face	competitor	forget	27	5	68	20	68	120	162.211	23
+167.220	2.000	remember	0.229	updating	restudy	2	face	scene	object	target	face	competitor	forget	28	5	116	44	92	220	167.200	17
+171.719	2.000	remember	0.449	updating	retprac	2	face	scene	object	target	face	target	remember	29	5	113	41	89	217	171.711	10
+176.352	2.000	remember	0.480	updating	retprac	1	face	object	scene	target	face	target	remember	30	5	67	19	67	119	176.337	11
+181.535	2.000	remember	0.329	updating	retprac	2	face	object	scene	target	face	competitor	forget	31	5	65	17	65	117	181.525	9
+186.301	2.000	forget	0.530	updating	retprac	1	scene	object	face	competitor	object	competitor	forget	32	5	91	139	291	143	186.280	4
+192.251	2.000	forget	0.365	updating	retprac	2	face	scene	object	other	object	target	remember	33	5	115	43	91	219	192.239	3
+198.117	2.000	remember	0.250	updating	restudy	2	scene	object	face	target	scene	competitor	forget	34	5	90	138	290	142	198.108	22
+202.716	2.000	forget	0.467	updating	retprac	2	scene	object	face	other	face	other	forget	35	5	89	137	289	141	202.705	2
+207.216	2.000	remember	0.359	updating	retprac	2	object	scene	face	target	object	target	remember	36	5	137	89	189	241	207.209	1
+215.298	2.000	remember	0.380	updating	restudy	2	object	scene	face	target	object	competitor	forget	37	5	138	90	190	242	215.277	24
+223.514	2.000	remember	0.284	updating	retprac	3	scene	face	object	target	scene	target	remember	38	5	41	113	265	41	223.497	8
+228.330	2.000	no response	n/a	updating	restudy	3	object	face	scene	no response	no response	competitor	forget	39	5	20	68	168	20	228.322	19
+232.930	2.000	forget	0.388	updating	retprac	1	object	face	scene	other	scene	no response	no response	40	5	19	67	167	19	232.913	12
+238.096	2.000	remember	0.389	updating	restudy	2	face	object	scene	target	face	competitor	forget	41	5	66	18	66	118	238.075	14
+245.912	2.000	remember	0.301	updating	restudy	2	scene	object	face	target	scene	competitor	forget	42	5	92	140	292	144	245.904	15
+253.278	2.000	remember	0.351	updating	retprac	3	scene	face	object	target	scene	target	remember	43	5	43	115	267	43	253.265	5
+258.244	2.000	remember	0.553	updating	retprac	2	object	face	scene	target	object	other	forget	44	5	17	65	165	17	258.223	6
+264.577	2.000	remember	0.356	updating	retprac	2	object	scene	face	target	object	target	remember	45	5	139	91	191	243	264.563	7
+269.793	2.000	remember	0.715	updating	retprac	3	face	object	scene	target	face	competitor	forget	46	5	65	17	65	117	269.780	9
+274.392	2.000	no response	n/a	updating	restudy	2	scene	face	object	no response	no response	other	forget	47	5	42	114	266	42	274.376	20
+279.208	2.000	remember	0.299	updating	restudy	2	face	scene	object	target	face	competitor	forget	48	5	114	42	90	218	279.186	16
+284.175	2.000	remember	0.501	updating	retprac	3	face	scene	object	target	face	target	remember	49	5	113	41	89	217	284.162	10
+289.024	2.000	remember	0.331	updating	restudy	2	scene	face	object	target	scene	competitor	forget	50	5	44	116	268	44	289.014	18
+294.473	2.000	remember	0.321	updating	retprac	2	face	object	scene	target	face	target	remember	51	5	67	19	67	119	294.464	11
+304.723	2.000	no response	n/a	updating	restudy	3	object	scene	face	no response	no response	competitor	forget	52	5	140	92	192	244	304.708	13
+309.305	2.000	remember	0.057	updating	restudy	3	face	object	scene	target	face	competitor	forget	53	5	68	20	68	120	309.282	23
+314.122	2.000	remember	0.401	updating	restudy	3	object	face	scene	target	object	competitor	forget	54	5	18	66	166	18	314.110	21
+320.688	2.000	remember	0.370	updating	restudy	3	object	scene	face	target	object	competitor	forget	55	5	138	90	190	242	320.670	24
+328.103	2.000	remember	0.490	updating	retprac	2	object	face	scene	target	object	no response	no response	56	5	19	67	167	19	328.094	12
+333.836	2.000	forget	0.437	updating	retprac	2	scene	object	face	competitor	object	competitor	forget	57	5	91	139	291	143	333.828	4
+339.036	2.000	remember	0.365	updating	retprac	3	face	scene	object	target	face	target	remember	58	5	115	43	91	219	339.024	3
+346.968	2.000	remember	0.505	updating	retprac	3	object	face	scene	target	object	other	forget	59	5	17	65	165	17	346.959	6
+354.467	2.000	remember	0.333	updating	restudy	3	face	scene	object	target	face	competitor	forget	60	5	116	44	92	220	354.450	17
+359.317	2.000	remember	0.595	updating	retprac	3	object	scene	face	target	object	target	remember	61	5	137	89	189	241	359.305	1
+364.666	2.000	remember	0.350	updating	restudy	3	face	scene	object	target	face	competitor	forget	62	5	114	42	90	218	364.648	16
+369.416	2.000	forget	0.816	updating	retprac	3	face	object	scene	competitor	object	target	remember	63	5	67	19	67	119	369.408	11
+377.115	2.000	remember	0.365	updating	retprac	3	scene	object	face	target	scene	other	forget	64	5	89	137	289	141	377.103	2
+383.415	2.000	remember	0.353	updating	restudy	3	scene	object	face	target	scene	competitor	forget	65	5	92	140	292	144	383.395	15
+388.381	2.000	remember	0.555	updating	retprac	3	object	scene	face	target	object	target	remember	66	5	139	91	191	243	388.368	7
+393.697	2.000	remember	0.366	updating	restudy	3	scene	object	face	target	scene	competitor	forget	67	5	90	138	290	142	393.689	22
+398.863	2.000	remember	0.448	updating	restudy	3	face	object	scene	target	face	competitor	forget	68	5	66	18	66	118	398.842	14
+407.012	2.000	remember	0.378	updating	restudy	3	scene	face	object	target	scene	other	forget	69	5	42	114	266	42	407.001	20
+412.845	2.000	remember	0.385	updating	retprac	3	object	face	scene	target	object	no response	no response	70	5	19	67	167	19	412.838	12
+417.394	2.000	remember	0.307	updating	retprac	3	scene	object	face	target	scene	competitor	forget	71	5	91	139	291	143	417.381	4
+422.144	2.000	no response	n/a	updating	restudy	3	scene	face	object	no response	no response	competitor	forget	72	5	44	116	268	44	422.128	18
